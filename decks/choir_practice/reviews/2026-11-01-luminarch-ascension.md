@@ -1,11 +1,14 @@
-# Luminarch Ascension (2026-11-01): ADD IF, cut Metastatic Evangel
+# Luminarch Ascension (2026-11-01): ADD IF, cut Thraben Watcher
+
+*Revised the same day: the cut moved from Metastatic Evangel to Thraben Watcher. See the addendum at the end.*
 
 Moxfield list last updated 2026-10-31T03:18:51.177Z (sync exit 0, 100 cards).
 
 ## Verdict
 
-**ADD IF most rounds at least two of your three opponents' turns go by without you losing life. Cut Metastatic Evangel.**
+**ADD IF most rounds at least two of your three opponents' turns go by without you losing life. Cut Thraben Watcher.**
 If two or more opponents hit you nearly every round, it's **NO**.
+With Metastatic Evangel or Norn's Choirmaster out, the bar drops to one clean opponent turn: that seeds the first counter, and proliferate does the rest.
 
 This reverses the 2026-10-02 build-out review, which rejected it in one line: "slow and turns off whenever you take damage." **The second half of that was a misreading.**
 Losing life doesn't remove quest counters. It only skips the counter for that one turn. The card is a count of clean opponent turns, not a streak.
@@ -47,7 +50,7 @@ Each life gain then triggers Archangel of Thune, Lyra, Archangel of Dawn, Exempl
 One token with Bishop and Valkyrie out is 8+ life. That turns on the end-step token makers: Resplendent Angel ("gained 5 or more life this turn"), Valkyrie Harbinger ("4 or more") and Ob Nixilis, the Ascended ("if you gained life this turn"). All three check at **each** end step, so this works on opponents' turns too.
 **That makes it a multiplier, not just one more token maker.**
 
-Doesn't trigger: Folk Hero and Vanquisher's draw (both need a *cast* spell), and Metastatic Evangel (nontoken only).
+Doesn't trigger: Folk Hero and Vanquisher's draw (both need a *cast* spell), and Metastatic Evangel (nontoken only). **But both proliferate cards grow the Ascension's quest counters.** See the addendum.
 
 ## Tests
 
@@ -84,17 +87,18 @@ Against alpha strikes, a flashed-in 4/4 blocker in an opponent's combat (once it
 
 **Price:** $17.83 (foil $31.17), fetched 2026-11-01 15:36 UTC. Under the $40 per-card cap. The ~$300 total was likely already exceeded after Battle Angels (see the 2026-10-30 review). That's your call. **The verdict is on merit and would be the same if the card were free.**
 
-## The cut: Metastatic Evangel
+## The cut: Thraben Watcher
 
-- It's the same 2-mana slot, so the curve is unchanged.
-- It's a 3/1 Human, so it dies to your own Kindred Judgment naming Angel. The Ascension survives it.
-- It doesn't trigger on tokens ("another **nontoken** creature"), so the Ascension's output never feeds it.
-- Not the last of its role. Compounding counter engines that remain: Giada, Cathars' Crusade, Archangel of Thune, Lyra, Archangel of Dawn, and Norn's Choirmaster (proliferates on Giada entering or attacking).
-- The Angel count is unchanged.
+*(Originally Metastatic Evangel. Withdrawn, see the addendum.)*
+
+- Static anthems are the deck's deepest amplifier group: Lyra Dawnbringer, Angelic Field Marshal, Angel of Invention, Patchwork and Vanquisher's Banner, Elesh Norn, and Righteous Valkyrie (conditional). Losing one +1/+1 anthem costs the least.
+- Its vigilance is mostly covered. Field Marshal gives all your creatures vigilance while Giada is out.
+- **Cost, kept from the earlier spare reason:** it's an Angel, so Giada counters, Bishop, Valkyrie and Folk Hero all lose one trigger source. Angels in the deck go down by 1.
+- Curve: a 4-drop leaves and a 2-drop comes in, so the average MV drops slightly.
 
 Runners-up, spared:
-1. **Thraben Watcher.** Static anthems are the deck's deepest amplifier group (Lyra Dawnbringer, Field Marshal, Angel of Invention, two Banners, Elesh Norn). But it's an Angel: Giada counters, Bishop, Valkyrie and Folk Hero all key off it. Cut this instead if you'd rather keep the 2-drop count.
-2. **Youthful Valkyrie.** Spared because the Ascension makes it better: it gets a counter for every token.
+1. **Metastatic Evangel.** Now a direct accelerant for the Ascension (see the addendum). It's the reverse of its first listing here.
+2. **Youthful Valkyrie.** The Ascension makes it better: it gets a counter for every token.
 3. **Valorous Stance, Fateful Absence.** Still reserved as the cuts for Teferi's Protection and Darksteel Mutation.
 
 ## What would change the verdict
@@ -104,3 +108,19 @@ Runners-up, spared:
 - **You keep Firemane Commando out** (the 2026-10-28 ADD IF wasn't taken). That's fine. The four deflectors already in the list are what this verdict leans on.
 
 Play notes: activate it **before** the end step (main phase 2 or end of combat), not during it. That way Bishop's and Valkyrie's gains count toward Resplendent, Harbinger and Ob Nixilis that same end step. Don't activate War Room on an opponent's turn.
+
+## Addendum (same day): proliferate grows the quest counters
+
+The user pointed out that they run Metastatic Evangel and other proliferate cards to grow counters faster. That includes quest counters, and this review had missed it. I checked only whether Evangel triggers on the Ascension's tokens (it doesn't). I never checked whether Evangel's proliferate reaches the Ascension. It does: proliferate gives "each another counter of each kind already there," on any permanent you choose.
+
+Verified proliferate in the 99 (`cards.md`; nothing else in the list says proliferate):
+- **Metastatic Evangel:** "Whenever another nontoken creature you control enters, proliferate." That's one quest counter per creature you cast or reanimate: 31 nontoken creatures, and Emeria, the Sky Ruin returns them.
+- **Norn's Choirmaster:** "Whenever a commander you control enters or attacks, proliferate." That's one per Giada attack or recast.
+
+**What changes:**
+- With either one out, the Ascension needs **one** clean opponent turn to get its first counter. After that, normal creature casts on your turn finish the job. That's often 1–2 turns after the first counter, even while the table is attacking you.
+- **Proliferate also works on your own turn**, which the Ascension's own trigger never does. Your turns can't be disrupted by the life-loss clause.
+- **The Evangel cut is withdrawn.** Evangel and the Ascension now support each other directly: the Ascension gets counters, Evangel already grows the board, and both survive into the late game together.
+- The verdict stays **ADD IF**. Only 2 proliferate cards are in the 99, so most games won't have one next to the Ascension, and the original condition still governs those games. With one out, the targeting risk mostly goes away.
+- The cut moves to Thraben Watcher, runner-up 1 in the first version. It had been spared only for being an Angel. That cost still applies, and it's written above.
+- Patrolling Peacemaker stays where the 2026-10-02 proliferate review left it (ADD IF the pod casts a lot of targeted spells). It would accelerate the Ascension too, but this review doesn't reopen that verdict.
