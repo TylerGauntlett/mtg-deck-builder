@@ -1,12 +1,12 @@
-# Luminarch Ascension (2026-11-01): ADD IF, cut Thraben Watcher
+# Luminarch Ascension (2026-11-01): ADD IF, cut Youthful Valkyrie
 
-*Revised the same day: the cut moved from Metastatic Evangel to Thraben Watcher. See the addendum at the end.*
+*Revised twice the same day. The cut went from Metastatic Evangel to Thraben Watcher, then to Youthful Valkyrie. See the addenda at the end.*
 
 Moxfield list last updated 2026-10-31T03:18:51.177Z (sync exit 0, 100 cards).
 
 ## Verdict
 
-**ADD IF most rounds at least two of your three opponents' turns go by without you losing life. Cut Thraben Watcher.**
+**ADD IF most rounds at least two of your three opponents' turns go by without you losing life. Cut Youthful Valkyrie.**
 If two or more opponents hit you nearly every round, it's **NO**.
 With Metastatic Evangel or Norn's Choirmaster out, the bar drops to one clean opponent turn: that seeds the first counter, and proliferate does the rest.
 
@@ -124,3 +124,21 @@ Verified proliferate in the 99 (`cards.md`; nothing else in the list says prolif
 - The verdict stays **ADD IF**. Only 2 proliferate cards are in the 99, so most games won't have one next to the Ascension, and the original condition still governs those games. With one out, the targeting risk mostly goes away.
 - The cut moves to Thraben Watcher, runner-up 1 in the first version. It had been spared only for being an Angel. That cost still applies, and it's written above.
 - Patrolling Peacemaker stays where the 2026-10-02 proliferate review left it (ADD IF the pod casts a lot of targeted spells). It would accelerate the Ascension too, but this review doesn't reopen that verdict.
+
+## Addendum 2 (same day): the user cuts Youthful Valkyrie instead
+
+The user's argument: few Angels enter while Youthful Valkyrie is on the battlefield, and its counters only go on itself.
+
+**Checked against the list.** There are 24 other Angels in the 99, plus myriad copies from Herald of the Host and Battle Angels of Tyr (two per attack). So it has plenty to trigger on in theory. In practice it's a 2-mana 1/3 that has to survive until those Angels arrive. The user reports that it usually doesn't trigger much, and that's play experience I can't overrule. **Their second point is the deciding one:** every trigger grows one creature. Thraben Watcher's anthem is a +1/+1 on every other nontoken creature. That's board-wide against one body, and this deck's reviews have consistently preferred multipliers over additive cards.
+
+**Consistency with my earlier reason.** I spared Youthful Valkyrie because "the Ascension makes it better." That's still true, but it's still one body getting bigger. The point about scope outweighs it. I'd been weighing how often it triggers when the real issue was how much each trigger does.
+
+**The cut is also cleaner by the rubric:**
+- A 2-drop leaves for a 2-drop, so the curve doesn't change at all.
+- Both are Angels, so the Angel count drops by 1 either way.
+
+**Costs:**
+- Giada becomes the only Angel at MV 2. The turn-3 Angel after Giada still has six 3-drop Angels to choose from (Angel of Vitality, Inspiring Overseer, Lyra, Archangel of Dawn, Resplendent Angel, Righteous Valkyrie, Wojek Investigator).
+- You lose a cheap early flying blocker. That matters a little for a player the table targets.
+
+**New cut: Youthful Valkyrie.** Thraben Watcher goes back to runner-up 1.
