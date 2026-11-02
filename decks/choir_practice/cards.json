@@ -1,7 +1,7 @@
 {
   "deck": "choir_practice",
   "source": "https://moxfield.com/decks/28szhD1-rUyWMW5dTmryaA",
-  "moxfield_updated": "2026-10-31T03:18:51.177Z",
+  "moxfield_updated": "2026-11-02T17:52:50.333Z",
   "stats": {
     "cards": 100,
     "distinct": 74,
@@ -9,10 +9,10 @@
     "avg_mana_value_nonland": 3.59,
     "type_counts": {
       "Land": 37,
-      "Creature": 32,
+      "Creature": 31,
       "Artifact": 9,
+      "Enchantment": 9,
       "Instant": 9,
-      "Enchantment": 8,
       "Sorcery": 3,
       "Planeswalker": 2
     },
@@ -1087,6 +1087,58 @@
       "oracle_id": "e828b189-0e8f-43b8-b909-4c23e742e028"
     },
     {
+      "name": "Luminarch Ascension",
+      "qty": 1,
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "type_line": "Enchantment",
+      "layout": "normal",
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Luminarch Ascension",
+          "mana_cost": "{1}{W}",
+          "type_line": "Enchantment",
+          "oracle_text": "At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on this enchantment. (Damage causes loss of life.)\n{1}{W}: Create a 4/4 white Angel creature token with flying. Activate only if this enchantment has four or more quest counters on it.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "W"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "a25",
+      "set_name": "Masters 25",
+      "released_at": "2018-03-16",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 3334,
+      "price_usd": "17.83",
+      "all_parts": [
+        {
+          "name": "Angel",
+          "component": "token",
+          "type_line": "Token Creature — Angel"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/a25/23/luminarch-ascension?utm_source=api",
+      "oracle_id": "90076bf5-aa9a-4a6e-9035-9aa97fd5561e"
+    },
+    {
       "name": "Gisela, the Broken Blade",
       "qty": 1,
       "mana_cost": "{2}{W}{W}",
@@ -2104,7 +2156,7 @@
       "game_changer": false,
       "commander_legal": "legal",
       "edhrec_rank": 384,
-      "price_usd": "4.51",
+      "price_usd": "4.24",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/lcc/316/vanquishers-banner?utm_source=api",
       "oracle_id": "8cf38025-5821-45a0-9483-266353b7e82d"
@@ -2418,54 +2470,6 @@
       "oracle_id": "e7b92789-47a9-430a-ad57-be7b6c3d63cb"
     },
     {
-      "name": "Youthful Valkyrie",
-      "qty": 1,
-      "mana_cost": "{1}{W}",
-      "cmc": 2.0,
-      "type_line": "Creature — Angel",
-      "layout": "normal",
-      "colors": [
-        "W"
-      ],
-      "color_identity": [
-        "W"
-      ],
-      "produced_mana": [],
-      "keywords": [
-        "Flying"
-      ],
-      "power": "1",
-      "toughness": "3",
-      "loyalty": null,
-      "faces": [
-        {
-          "name": "Youthful Valkyrie",
-          "mana_cost": "{1}{W}",
-          "type_line": "Creature — Angel",
-          "oracle_text": "Flying\nWhenever another Angel you control enters, put a +1/+1 counter on this creature.",
-          "power": "1",
-          "toughness": "3",
-          "loyalty": null,
-          "defense": null,
-          "colors": [
-            "W"
-          ]
-        }
-      ],
-      "rarity": "uncommon",
-      "set": "fdn",
-      "set_name": "Foundations",
-      "released_at": "2024-11-15",
-      "reserved": false,
-      "game_changer": false,
-      "commander_legal": "legal",
-      "edhrec_rank": 2855,
-      "price_usd": "0.22",
-      "all_parts": [],
-      "scryfall_uri": "https://scryfall.com/card/fdn/149/youthful-valkyrie?utm_source=api",
-      "oracle_id": "6d37ba4b-ff56-4eec-9dc2-2d7f357dc9c9"
-    },
-    {
       "name": "Valkyrie Harbinger",
       "qty": 1,
       "mana_cost": "{4}{W}{W}",
@@ -2611,7 +2615,7 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 4622,
+      "edhrec_rank": 4612,
       "price_usd": "0.33",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/mh2/34/thraben-watcher?utm_source=api",
@@ -2970,8 +2974,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 3256,
-      "price_usd": "2.62",
+      "edhrec_rank": 3246,
+      "price_usd": "3.43",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/fdc/41/norns-choirmaster?utm_source=api",
       "oracle_id": "bad6a5a9-7010-418d-b042-182926aa999d"
@@ -3220,8 +3224,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 1516,
-      "price_usd": "0.37",
+      "edhrec_rank": 1515,
+      "price_usd": "0.35",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/mh3/35/metastatic-evangel?utm_source=api",
       "oracle_id": "0a27bd77-ec13-4e8d-acad-9aa9c66b3b73"
