@@ -360,15 +360,9 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 139,
-      "price_usd": "3.45",
-      "all_parts": [
-        {
-          "name": "A-Blood Artist",
-          "component": "combo_piece",
-          "type_line": "Creature — Vampire"
-        }
-      ],
+      "edhrec_rank": 144,
+      "price_usd": "3.17",
+      "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/soc/209/blood-artist?utm_source=api",
       "oracle_id": "310f141c-7f37-4729-aed6-dd9c09db448d"
     },
@@ -2112,8 +2106,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 950,
-      "price_usd": "1.83",
+      "edhrec_rank": 983,
+      "price_usd": "2.50",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/lcc/267/cruel-celebrant?utm_source=api",
       "oracle_id": "3ee78cfc-0e9e-4737-a7e2-b42f94228040"
@@ -2437,8 +2431,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 333,
-      "price_usd": "0.33",
+      "edhrec_rank": 330,
+      "price_usd": "0.35",
       "all_parts": [
         {
           "name": "Human Soldier",
