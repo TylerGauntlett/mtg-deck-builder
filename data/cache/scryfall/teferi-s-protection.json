@@ -115,12 +115,12 @@
     "previewed_at": "2022-06-16"
   },
   "prices": {
-    "usd": "46.87",
-    "usd_foil": "55.40",
+    "usd": "48.85",
+    "usd_foil": "54.72",
     "usd_etched": null,
-    "eur": "37.98",
-    "eur_foil": "39.58",
-    "tix": "3.55"
+    "eur": "39.55",
+    "eur_foil": "39.48",
+    "tix": "3.61"
   },
   "related_uris": {
     "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=571365&printed=false",

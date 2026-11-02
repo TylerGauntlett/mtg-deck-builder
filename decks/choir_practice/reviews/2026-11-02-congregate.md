@@ -80,3 +80,31 @@ None. The role it's aimed at (burst lifegain to hit thresholds and turn on the e
 
 - The deck adds payoffs that scale with the **amount** of life gained in one event, e.g. "whenever you gain life, create X tokens where X is the amount". It runs none today.
 - Your games regularly end with you dying to a single huge ground swing that one big lifegain would have survived, *and* none of the eight defensive cards above were available. Tell me if that's what you're seeing.
+
+## Addendum (same day): cast in response to a board wipe
+
+The user proposed a new way to use it: cast it in response to an opponent's wipe, while the board is still at its biggest.
+
+**Checking the line.** It works. Congregate is an Instant, and the 2022-12-08 ruling says it counts creatures "as Congregate resolves." Cast in response, it resolves before the wipe and counts every creature, both sides. If wipes in this pod come when the board "has gotten out of control," that's often 10–20 creatures, so 20–40 life. **My first version's worst case ("after a wipe it gains roughly nothing") assumed you'd cast it after the wipe. In this line it's at its best.** That's a fair correction.
+
+**Re-running the tests for this use:**
+
+*What the life does afterwards.* Almost every payoff that turns life into board is a creature, so the same wipe kills it. That's Archangel of Thune, Lyra, Archangel of Dawn, Exemplar of Light, Resplendent Angel, Valkyrie Harbinger, Ob Nixilis, Righteous Valkyrie, Angel of Vitality and Angel of Destiny. The only life payoff left is Dawn of Hope (one draw for {2}). **The life is purely a buffer.** It doesn't speed up the rebuild.
+
+*Redundancy in the same window (effect × frequency × duration).* The deck already has instant-speed answers to the same wipe, and they **keep the board**, which is worth more than life:
+- Flawless Maneuver: "Creatures you control gain indestructible." It's free while you control Giada.
+- Clever Concealment: phase out any number of your nonland permanents. This also beats exile and −X/−X wipes, so it covers everything Congregate covers.
+- Akroma's Will: indestructible mode.
+- Statics: Avacyn ("Other permanents you control have indestructible") and Sephara ("Other creatures you control with flying have indestructible").
+
+Congregate would be the fourth instant in this role, and the only one that lets the board die. **Clever Concealment does everything Congregate does here, and then you keep the board.**
+
+*Recovery after a wipe already exists, and it doesn't use life:* Luminarch Ascension, Court of Grace and Serra the Benevolent all survive a creature wipe. So does Bishop of Wings' death trigger ("Whenever an Angel you control dies, create a 1/1… Spirit") against destroy-based wipes. Emeria, the Sky Ruin brings creatures back.
+
+*What it costs.* You need {3}{W} open on an opponent's turn, with it in hand, at the moment a wipe happens. That mana competes with Luminarch Ascension activations, and Flawless Maneuver costs nothing.
+
+**Verdict: still NO, but for a different reason.** It's no longer that the card is weak after a wipe. It's that the deck's existing answers to that same wipe keep your board, and Congregate only gives you life, which the surviving permanents mostly can't use.
+
+**What would flip it to ADD:** if after wipes you're losing **because your life total runs out** (the pod rebuilds faster than you, or burn/drain finishes you), not because you're out of threats. Then a 20–40 point buffer is the thing you're missing. Name the cut then; Valorous Stance is the first candidate, as the 2026-10-02 reviews ranked it.
+
+**If the real concern is losing to wipes:** the stronger version of this plan is still Teferi's Protection. It's the 2026-10-02 ADD IF that was never taken. It's a phase-out like Clever Concealment, plus "your life total can't change" for a turn cycle. Live: **$48.85 for the default print, fetched 2026-11-02 18:30 UTC. That's over the $40 cap,** so check alternate printings. Game Changer: you have 2 of 3 (Drannith Magistrate, Farewell).
