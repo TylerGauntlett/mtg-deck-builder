@@ -11,7 +11,7 @@ Game Changers 2/3 (Necropotence, Teferi's Protection), $40/card cap.
 
 | Card | Price (Scryfall, 2026-11-02 04:36 UTC) | Edgar decks (EDHREC) | Verdict |
 |---|---|---|---|
-| **Anointed Procession** | $59.23 — **over cap** | 26.7% (13,990 / 52,441) | **ADD IF** you waive the $40 cap for it. Cut **Henrika Domnathi** |
+| **Anointed Procession** | $59.23 — **over cap** | 26.7% (13,990 / 52,441) | **ADD IF** you waive the $40 cap for it. Cut **Bastion of Remembrance** (revised from Henrika; see follow-up) |
 | Mondrak, Glory Dominus | $43.12 — **over cap** | not in its top-24 commanders | **NO** — the worse of the two doublers, and the deck has room for one |
 | Mavren Fein, Dusk Apostle | $0.34 | 42.9% (22,497 / 52,441) | **NO** — good card, no cut for it in the 3-slot |
 | Drana and Linvala | $6.20 | 22.9% (11,990 / 52,441) | **NO** — the 09-06 ADD IF no longer has a testable condition, and there's no cut |
@@ -216,3 +216,51 @@ that's a real engine.
 | Token sources | 10 (all doubled; Welcoming Vampire's draw batched) | `cards.json` |
 | Non-Vampire creatures | Carrion Feeder, Mirkwood Bats | `cards.json` |
 | WW cards in deck | Clever Concealment | `cards.json` |
+
+---
+
+## Follow-up: cut Bastion of Remembrance instead of Henrika? (2026-11-02)
+
+**Yes. It's a better cut than the one I named.** Re-synced first: the list is
+unchanged (Moxfield still 2026-10-31T03:20:30Z).
+
+**Bastion is a near-copy of Cruel Celebrant.** Verified text (Scryfall, 04:47 UTC):
+
+| Card | Trigger scope | Effect |
+|---|---|---|
+| Bastion of Remembrance | *"a creature **you control** dies"* | each opponent loses 1, you gain 1 |
+| Cruel Celebrant | *"this creature or another creature **or planeswalker you control** dies"* | each opponent loses 1, you gain 1 |
+| Blood Artist | *"this creature or another creature dies"* (**any** creature) | target player loses 1, you gain 1 |
+| Vein Ripper | *"a creature dies"* (**any** creature) | target opponent loses 2, you gain 2 |
+
+Bastion and Celebrant have the same scope and the same effect. Celebrant's scope is
+actually slightly wider, because it also counts Sorin. Mirkwood Bats also drains
+when you sacrifice tokens. Both the 10-02 shape review and the 09-03 review called
+the payoff tier overstuffed and marked it ↓. No earlier review kept Bastion for a
+specific reason. This is the same-role cut the rubric prefers. It also leaves
+Henrika's three jobs, which nothing else in the deck does, untouched.
+
+**What you lose:**
+- **The one drain payoff that isn't a creature.** After a creature wipe, Bastion is
+  still there draining while you rebuild. Celebrant, Blood Artist and Vein Ripper
+  die in the wipe. They still trigger on the wipe's deaths, but they're gone for
+  the rebuild. Board recovery is the deck's long-standing weak spot, so this cost
+  is real. I'm stating it, not dismissing it.
+- Its 1/1 Human Soldier token. Procession would have doubled it, but it's one-shot.
+
+**Why it's still the better cut:** Bastion's job is covered by Celebrant, which is
+on the cheaper side of the curve. Henrika's three jobs aren't covered by anything.
+
+**Deltas (−Bastion, +Procession):**
+- Curve: 3-slot 20 → **19** (the most crowded slot gets relief), 4-slot 12 → 13.
+- Pips: `{2}{B}` out, `{3}{W}` in → B −1, W +1.
+- Eminence fuel: **36, unchanged.** Neither card is a Vampire. Cutting Henrika
+  would have dropped it to 35.
+- Drain-on-your-own-death payoffs: Celebrant, Blood Artist, Vein Ripper, plus
+  Bats on tokens.
+
+**Revised verdict: ADD Anointed Procession (if you waive the cap), cut Bastion of
+Remembrance.** Keep Henrika.
+
+Prices (Scryfall 2026-11-02 04:47 UTC): Bastion $0.35 · Henrika $1.23 · Cruel
+Celebrant $2.50 · Blood Artist $3.17 · Vein Ripper $7.41.
