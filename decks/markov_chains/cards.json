@@ -1,12 +1,12 @@
 {
   "deck": "markov_chains",
   "source": "https://moxfield.com/decks/Sr3op2p6G0m0Msv1n_jLZw",
-  "moxfield_updated": "2026-10-31T03:20:30.44Z",
+  "moxfield_updated": "2026-11-03T21:38:37.813Z",
   "stats": {
     "cards": 100,
     "distinct": 90,
     "lands": 34,
-    "avg_mana_value_nonland": 2.92,
+    "avg_mana_value_nonland": 2.95,
     "type_counts": {
       "Creature": 38,
       "Land": 34,
@@ -17,8 +17,8 @@
       "Planeswalker": 1
     },
     "color_pips": {
-      "B": 63,
-      "W": 20,
+      "B": 64,
+      "W": 19,
       "R": 4
     },
     "game_changers": [
@@ -717,7 +717,7 @@
       "game_changer": true,
       "commander_legal": "legal",
       "edhrec_rank": 109,
-      "price_usd": "46.87",
+      "price_usd": "48.85",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/2x2/32/teferis-protection?utm_source=api",
       "oracle_id": "0d4ecdb1-ec90-497f-a7a4-1c68092b8757"
@@ -2730,6 +2730,55 @@
       "oracle_id": "8985e545-07c3-45f9-9058-fe3c1f50de04"
     },
     {
+      "name": "Malakir Bloodwitch",
+      "qty": 1,
+      "mana_cost": "{3}{B}{B}",
+      "cmc": 5.0,
+      "type_line": "Creature — Vampire Shaman",
+      "layout": "normal",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Flying",
+        "Protection"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Malakir Bloodwitch",
+          "mana_cost": "{3}{B}{B}",
+          "type_line": "Creature — Vampire Shaman",
+          "oracle_text": "Flying, protection from white\nWhen this creature enters, each opponent loses life equal to the number of Vampires you control. You gain life equal to the life lost this way.",
+          "power": "4",
+          "toughness": "4",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "B"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "voc",
+      "set_name": "Crimson Vow Commander",
+      "released_at": "2021-11-19",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 3578,
+      "price_usd": "4.28",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/voc/131/malakir-bloodwitch?utm_source=api",
+      "oracle_id": "870e199e-1d54-44ec-8e24-f24af93ae9c5"
+    },
+    {
       "name": "New Blood",
       "qty": 1,
       "mana_cost": "{2}{B}{B}",
@@ -4141,61 +4190,6 @@
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/tdc/140/welcoming-vampire?utm_source=api",
       "oracle_id": "605c1ee0-5e8a-4e0a-a99b-42a38873f822"
-    },
-    {
-      "name": "Clavileño, First of the Blessed",
-      "qty": 1,
-      "mana_cost": "{1}{W}{B}",
-      "cmc": 3.0,
-      "type_line": "Legendary Creature — Vampire Cleric",
-      "layout": "normal",
-      "colors": [
-        "B",
-        "W"
-      ],
-      "color_identity": [
-        "B",
-        "W"
-      ],
-      "produced_mana": [],
-      "keywords": [],
-      "power": "2",
-      "toughness": "2",
-      "loyalty": null,
-      "faces": [
-        {
-          "name": "Clavileño, First of the Blessed",
-          "mana_cost": "{1}{W}{B}",
-          "type_line": "Legendary Creature — Vampire Cleric",
-          "oracle_text": "Whenever you attack, target attacking Vampire that isn't a Demon becomes a Demon in addition to its other types. It gains \"When this creature dies, draw a card and create a tapped 4/3 white and black Vampire Demon creature token with flying.\"",
-          "power": "2",
-          "toughness": "2",
-          "loyalty": null,
-          "defense": null,
-          "colors": [
-            "B",
-            "W"
-          ]
-        }
-      ],
-      "rarity": "mythic",
-      "set": "lcc",
-      "set_name": "The Lost Caverns of Ixalan Commander",
-      "released_at": "2023-11-17",
-      "reserved": false,
-      "game_changer": false,
-      "commander_legal": "legal",
-      "edhrec_rank": 3517,
-      "price_usd": "0.73",
-      "all_parts": [
-        {
-          "name": "Vampire Demon",
-          "component": "token",
-          "type_line": "Token Creature — Vampire Demon"
-        }
-      ],
-      "scryfall_uri": "https://scryfall.com/card/lcc/2/clavile%C3%B1o-first-of-the-blessed?utm_source=api",
-      "oracle_id": "2b62a716-7831-4c76-8f2d-b99b04e33350"
     },
     {
       "name": "Bartolomé del Presidio",

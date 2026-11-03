@@ -112,19 +112,19 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 305,
+  "edhrec_rank": 306,
   "preview": {
     "source": "The Command Zone",
     "source_uri": "https://twitter.com/commandcast/status/1537518095635402753",
     "previewed_at": "2022-06-16"
   },
   "prices": {
-    "usd": "54.37",
+    "usd": "56.08",
     "usd_foil": "60.11",
     "usd_etched": null,
-    "eur": "43.15",
-    "eur_foil": "46.44",
-    "tix": "6.64"
+    "eur": "44.75",
+    "eur_foil": "46.35",
+    "tix": "7.38"
   },
   "related_uris": {
     "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=571644&printed=false",
