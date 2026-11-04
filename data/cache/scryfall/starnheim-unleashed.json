@@ -139,18 +139,18 @@
   "textless": false,
   "booster": true,
   "story_spotlight": true,
-  "edhrec_rank": 9186,
-  "penny_rank": 6863,
+  "edhrec_rank": 9189,
+  "penny_rank": 6920,
   "preview": {
     "source": "Wizards of the Coast",
     "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/starnheim-unleashed-2021-01-12",
     "previewed_at": "2021-01-12"
   },
   "prices": {
-    "usd": "1.73",
-    "usd_foil": "1.36",
+    "usd": "1.81",
+    "usd_foil": "1.28",
     "usd_etched": null,
-    "eur": "2.04",
+    "eur": "1.92",
     "eur_foil": "2.00",
     "tix": "0.02"
   },

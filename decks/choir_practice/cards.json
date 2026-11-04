@@ -1,7 +1,7 @@
 {
   "deck": "choir_practice",
   "source": "https://moxfield.com/decks/28szhD1-rUyWMW5dTmryaA",
-  "moxfield_updated": "2026-11-02T17:52:50.333Z",
+  "moxfield_updated": "2026-11-03T17:02:50.213Z",
   "stats": {
     "cards": 100,
     "distinct": 74,
@@ -10,14 +10,14 @@
     "type_counts": {
       "Land": 37,
       "Creature": 31,
-      "Artifact": 9,
-      "Enchantment": 9,
+      "Artifact": 10,
       "Instant": 9,
+      "Enchantment": 8,
       "Sorcery": 3,
       "Planeswalker": 2
     },
     "color_pips": {
-      "W": 86
+      "W": 85
     },
     "game_changers": [
       "Drannith Magistrate",
@@ -71,8 +71,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 1614,
-      "price_usd": "0.53",
+      "edhrec_rank": 1607,
+      "price_usd": "0.48",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/fdn/141/giada-font-of-hope?utm_source=api",
       "oracle_id": "48e6d3d8-2f27-4017-acdd-40bce8cdbc02"
@@ -216,6 +216,46 @@
       ],
       "scryfall_uri": "https://scryfall.com/card/tdc/346/castle-ardenvale?utm_source=api",
       "oracle_id": "f8f4fc60-725d-46d8-8e8f-e68e00d20589"
+    },
+    {
+      "name": "Tome of Legends",
+      "qty": 1,
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "type_line": "Artifact — Book",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Tome of Legends",
+          "mana_cost": "{2}",
+          "type_line": "Artifact — Book",
+          "oracle_text": "This artifact enters with a page counter on it.\nWhenever your commander enters or attacks, put a page counter on this artifact.\n{1}, {T}, Remove a page counter from this artifact: Draw a card.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "rare",
+      "set": "msc",
+      "set_name": "Marvel Super Heroes Commander",
+      "released_at": "2026-06-26",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2189,
+      "price_usd": "0.34",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/msc/223/tome-of-legends?utm_source=api",
+      "oracle_id": "cada2a1c-5db2-4702-9a57-cbe7da1bf208"
     },
     {
       "name": "Secluded Steppe",
@@ -1204,58 +1244,6 @@
       ],
       "scryfall_uri": "https://scryfall.com/card/inr/24/gisela-the-broken-blade?utm_source=api",
       "oracle_id": "f3e23d5e-bd88-4e7c-a3fb-db2a8cb05b22"
-    },
-    {
-      "name": "Dawn of Hope",
-      "qty": 1,
-      "mana_cost": "{1}{W}",
-      "cmc": 2.0,
-      "type_line": "Enchantment",
-      "layout": "normal",
-      "colors": [
-        "W"
-      ],
-      "color_identity": [
-        "W"
-      ],
-      "produced_mana": [],
-      "keywords": [],
-      "power": null,
-      "toughness": null,
-      "loyalty": null,
-      "faces": [
-        {
-          "name": "Dawn of Hope",
-          "mana_cost": "{1}{W}",
-          "type_line": "Enchantment",
-          "oracle_text": "Whenever you gain life, you may pay {2}. If you do, draw a card.\n{3}{W}: Create a 1/1 white Soldier creature token with lifelink.",
-          "power": null,
-          "toughness": null,
-          "loyalty": null,
-          "defense": null,
-          "colors": [
-            "W"
-          ]
-        }
-      ],
-      "rarity": "rare",
-      "set": "grn",
-      "set_name": "Guilds of Ravnica",
-      "released_at": "2018-10-05",
-      "reserved": false,
-      "game_changer": false,
-      "commander_legal": "legal",
-      "edhrec_rank": 2388,
-      "price_usd": "0.76",
-      "all_parts": [
-        {
-          "name": "Soldier",
-          "component": "token",
-          "type_line": "Token Creature — Soldier"
-        }
-      ],
-      "scryfall_uri": "https://scryfall.com/card/grn/8/dawn-of-hope?utm_source=api",
-      "oracle_id": "d7a38484-2acc-49a6-b32d-d54dddb14d31"
     },
     {
       "name": "Angel of Invention",
