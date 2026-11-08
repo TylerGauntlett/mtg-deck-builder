@@ -28,7 +28,8 @@
     "grid": "https://cards.scryfall.io/grid/front/6/f/6fccdb60-5fce-4a6e-a709-b986f9a4b653.webp?1783908189",
     "display": "https://cards.scryfall.io/display/front/6/f/6fccdb60-5fce-4a6e-a709-b986f9a4b653.webp?1783908189",
     "art": "https://cards.scryfall.io/art/front/6/f/6fccdb60-5fce-4a6e-a709-b986f9a4b653.webp?1783908189",
-    "crop": "https://cards.scryfall.io/crop/front/6/f/6fccdb60-5fce-4a6e-a709-b986f9a4b653.webp?1783908189"
+    "crop": "https://cards.scryfall.io/crop/front/6/f/6fccdb60-5fce-4a6e-a709-b986f9a4b653.webp?1783908189",
+    "jpeg": "https://cards.scryfall.io/normal/front/6/f/6fccdb60-5fce-4a6e-a709-b986f9a4b653.jpg?1783908189"
   },
   "mana_cost": "{5}{W}{W}",
   "cmc": 7.0,
@@ -150,20 +151,20 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 2430,
-  "penny_rank": 7444,
+  "edhrec_rank": 2395,
+  "penny_rank": 7370,
   "preview": {
     "source": "Wizards of the Coast",
     "source_uri": "https://magic.wizards.com/en/news/making-magic/the-ins-and-outs-of-innistrad-remastered",
     "previewed_at": "2025-01-06"
   },
   "prices": {
-    "usd": "4.02",
-    "usd_foil": "4.83",
+    "usd": "4.33",
+    "usd_foil": "5.42",
     "usd_etched": null,
     "eur": "1.86",
-    "eur_foil": "2.72",
-    "tix": "0.03"
+    "eur_foil": "2.59",
+    "tix": "0.05"
   },
   "related_uris": {
     "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=685830&printed=false",

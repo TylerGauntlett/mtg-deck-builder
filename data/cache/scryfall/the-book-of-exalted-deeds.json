@@ -29,7 +29,8 @@
     "grid": "https://cards.scryfall.io/grid/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.webp?1783926538",
     "display": "https://cards.scryfall.io/display/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.webp?1783926538",
     "art": "https://cards.scryfall.io/art/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.webp?1783926538",
-    "crop": "https://cards.scryfall.io/crop/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.webp?1783926538"
+    "crop": "https://cards.scryfall.io/crop/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.webp?1783926538",
+    "jpeg": "https://cards.scryfall.io/normal/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.jpg?1783926538"
   },
   "mana_cost": "{W}{W}{W}",
   "cmc": 3.0,
@@ -130,19 +131,19 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 3620,
+  "edhrec_rank": 3593,
   "preview": {
     "source": "Wizards of the Coast",
     "source_uri": "https://www.youtube.com/watch?v=ce92hJyadDQ",
     "previewed_at": "2021-07-06"
   },
   "prices": {
-    "usd": "8.22",
-    "usd_foil": "9.55",
+    "usd": "9.32",
+    "usd_foil": "9.89",
     "usd_etched": null,
-    "eur": "7.84",
-    "eur_foil": "7.82",
-    "tix": "0.09"
+    "eur": "8.23",
+    "eur_foil": "9.07",
+    "tix": "0.03"
   },
   "related_uris": {
     "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527291&printed=false",
