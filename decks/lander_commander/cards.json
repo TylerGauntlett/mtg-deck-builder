@@ -1,7 +1,7 @@
 {
   "deck": "lander_commander",
   "source": "https://moxfield.com/decks/brDuu9c6_0yuaoHLijLFHw",
-  "moxfield_updated": "2026-11-03T13:10:35.72Z",
+  "moxfield_updated": "2026-11-04T15:25:39.92Z",
   "stats": {
     "cards": 100,
     "distinct": 78,
@@ -9,18 +9,19 @@
     "avg_mana_value_nonland": 3.7,
     "type_counts": {
       "Land": 43,
-      "Creature": 30,
-      "Instant": 8,
+      "Creature": 29,
+      "Instant": 9,
       "Sorcery": 8,
       "Enchantment": 6,
       "Artifact": 5
     },
     "color_pips": {
-      "G": 60,
-      "U": 21
+      "G": 59,
+      "U": 22
     },
     "game_changers": [
       "Cyclonic Rift",
+      "Mystical Tutor",
       "Rhystic Study"
     ]
   },
@@ -72,7 +73,7 @@
       "game_changer": false,
       "commander_legal": "legal",
       "edhrec_rank": 850,
-      "price_usd": "11.61",
+      "price_usd": "11.11",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/dsc/210/aesi-tyrant-of-gyre-strait?utm_source=api",
       "oracle_id": "6511f317-bd38-46d0-b800-7125a3f420da"
@@ -1331,52 +1332,6 @@
       "oracle_id": "6c2c8bf3-9bf8-4a86-89d3-3bb36260dc51"
     },
     {
-      "name": "Heroic Intervention",
-      "qty": 1,
-      "mana_cost": "{1}{G}",
-      "cmc": 2.0,
-      "type_line": "Instant",
-      "layout": "normal",
-      "colors": [
-        "G"
-      ],
-      "color_identity": [
-        "G"
-      ],
-      "produced_mana": [],
-      "keywords": [],
-      "power": null,
-      "toughness": null,
-      "loyalty": null,
-      "faces": [
-        {
-          "name": "Heroic Intervention",
-          "mana_cost": "{1}{G}",
-          "type_line": "Instant",
-          "oracle_text": "Permanents you control gain hexproof and indestructible until end of turn.",
-          "power": null,
-          "toughness": null,
-          "loyalty": null,
-          "defense": null,
-          "colors": [
-            "G"
-          ]
-        }
-      ],
-      "rarity": "rare",
-      "set": "cmm",
-      "set_name": "Commander Masters",
-      "released_at": "2023-08-04",
-      "reserved": false,
-      "game_changer": false,
-      "commander_legal": "legal",
-      "edhrec_rank": 28,
-      "price_usd": "15.99",
-      "all_parts": [],
-      "scryfall_uri": "https://scryfall.com/card/cmm/295/heroic-intervention?utm_source=api",
-      "oracle_id": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27"
-    },
-    {
       "name": "Simic Growth Chamber",
       "qty": 1,
       "mana_cost": "",
@@ -1839,6 +1794,52 @@
       "oracle_id": "1593ea18-2f2f-4ab4-83fb-6ccc0bec8a90"
     },
     {
+      "name": "Mystical Tutor",
+      "qty": 1,
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "type_line": "Instant",
+      "layout": "normal",
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Mystical Tutor",
+          "mana_cost": "{U}",
+          "type_line": "Instant",
+          "oracle_text": "Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "U"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "dmr",
+      "set_name": "Dominaria Remastered",
+      "released_at": "2023-01-13",
+      "reserved": false,
+      "game_changer": true,
+      "commander_legal": "legal",
+      "edhrec_rank": 164,
+      "price_usd": "17.29",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/dmr/60/mystical-tutor?utm_source=api",
+      "oracle_id": "fb81f95c-70f8-4eb7-8d15-15d0ae23ec03"
+    },
+    {
       "name": "Avenger of Zendikar",
       "qty": 1,
       "mana_cost": "{5}{G}{G}",
@@ -2122,16 +2123,16 @@
         }
       ],
       "rarity": "common",
-      "set": "dsc",
-      "set_name": "Duskmourn: House of Horror Commander",
-      "released_at": "2024-09-27",
+      "set": "trc",
+      "set_name": "Star Trek Commander",
+      "released_at": "2026-11-13",
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 231,
-      "price_usd": "0.30",
+      "edhrec_rank": 239,
+      "price_usd": null,
       "all_parts": [],
-      "scryfall_uri": "https://scryfall.com/card/dsc/88/growth-spiral?utm_source=api",
+      "scryfall_uri": "https://scryfall.com/card/trc/476/growth-spiral?utm_source=api",
       "oracle_id": "34bcc217-dd91-45a0-90d7-a94d02f1f317"
     },
     {
@@ -2222,8 +2223,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 306,
-      "price_usd": "24.38",
+      "edhrec_rank": 295,
+      "price_usd": "24.79",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/tdm/138/craterhoof-behemoth?utm_source=api",
       "oracle_id": "8c52bd39-0586-48ca-b263-17210cf9feb6"
@@ -2368,60 +2369,6 @@
       "oracle_id": "dc974eb4-72b9-4213-887b-8ee684b93420"
     },
     {
-      "name": "Lotus Cobra",
-      "qty": 1,
-      "mana_cost": "{1}{G}",
-      "cmc": 2.0,
-      "type_line": "Creature — Snake",
-      "layout": "normal",
-      "colors": [
-        "G"
-      ],
-      "color_identity": [
-        "G"
-      ],
-      "produced_mana": [
-        "B",
-        "G",
-        "R",
-        "U",
-        "W"
-      ],
-      "keywords": [
-        "Landfall"
-      ],
-      "power": "2",
-      "toughness": "1",
-      "loyalty": null,
-      "faces": [
-        {
-          "name": "Lotus Cobra",
-          "mana_cost": "{1}{G}",
-          "type_line": "Creature — Snake",
-          "oracle_text": "Landfall — Whenever a land you control enters, add one mana of any color.",
-          "power": "2",
-          "toughness": "1",
-          "loyalty": null,
-          "defense": null,
-          "colors": [
-            "G"
-          ]
-        }
-      ],
-      "rarity": "rare",
-      "set": "znr",
-      "set_name": "Zendikar Rising",
-      "released_at": "2020-09-25",
-      "reserved": false,
-      "game_changer": false,
-      "commander_legal": "legal",
-      "edhrec_rank": 329,
-      "price_usd": "5.89",
-      "all_parts": [],
-      "scryfall_uri": "https://scryfall.com/card/znr/193/lotus-cobra?utm_source=api",
-      "oracle_id": "8ad91f64-ccab-4edc-bd54-b2ee9267d614"
-    },
-    {
       "name": "Coral Atoll",
       "qty": 1,
       "mana_cost": "",
@@ -2506,8 +2453,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 313,
-      "price_usd": "41.94",
+      "edhrec_rank": 297,
+      "price_usd": "30.60",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/cmm/289/finale-of-devastation?utm_source=api",
       "oracle_id": "69872a9a-fe54-4e58-940c-89395af71acd"
@@ -2885,63 +2832,6 @@
       "oracle_id": "fb5a3403-7f0b-406c-8c4f-d693be010ca6"
     },
     {
-      "name": "Turntimber Symbiosis // Turntimber, Serpentine Wood",
-      "qty": 1,
-      "mana_cost": "",
-      "cmc": 7.0,
-      "type_line": "Sorcery // Land",
-      "layout": "modal_dfc",
-      "colors": [],
-      "color_identity": [
-        "G"
-      ],
-      "produced_mana": [
-        "G"
-      ],
-      "keywords": [],
-      "power": null,
-      "toughness": null,
-      "loyalty": null,
-      "faces": [
-        {
-          "name": "Turntimber Symbiosis",
-          "mana_cost": "{4}{G}{G}{G}",
-          "type_line": "Sorcery",
-          "oracle_text": "Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. If that card has mana value 3 or less, it enters with three additional +1/+1 counters on it. Put the rest on the bottom of your library in a random order.",
-          "power": null,
-          "toughness": null,
-          "loyalty": null,
-          "defense": null,
-          "colors": [
-            "G"
-          ]
-        },
-        {
-          "name": "Turntimber, Serpentine Wood",
-          "mana_cost": "",
-          "type_line": "Land",
-          "oracle_text": "As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {G}.",
-          "power": null,
-          "toughness": null,
-          "loyalty": null,
-          "defense": null,
-          "colors": []
-        }
-      ],
-      "rarity": "mythic",
-      "set": "znr",
-      "set_name": "Zendikar Rising",
-      "released_at": "2020-09-25",
-      "reserved": false,
-      "game_changer": false,
-      "commander_legal": "legal",
-      "edhrec_rank": 2337,
-      "price_usd": "4.51",
-      "all_parts": [],
-      "scryfall_uri": "https://scryfall.com/card/znr/215/turntimber-symbiosis-turntimber-serpentine-wood?utm_source=api",
-      "oracle_id": "403b59f3-7ade-4bc2-a3e6-de0c3c700f18"
-    },
-    {
       "name": "Scute Swarm",
       "qty": 1,
       "mana_cost": "{2}{G}",
@@ -3314,58 +3204,6 @@
       "oracle_id": "4d8505d3-c8a1-4850-95d4-5ddb8ad49770"
     },
     {
-      "name": "Jin-Gitaxias, Progress Tyrant",
-      "qty": 1,
-      "mana_cost": "{5}{U}{U}",
-      "cmc": 7.0,
-      "type_line": "Legendary Creature — Phyrexian Praetor",
-      "layout": "normal",
-      "colors": [
-        "U"
-      ],
-      "color_identity": [
-        "U"
-      ],
-      "produced_mana": [],
-      "keywords": [],
-      "power": "5",
-      "toughness": "5",
-      "loyalty": null,
-      "faces": [
-        {
-          "name": "Jin-Gitaxias, Progress Tyrant",
-          "mana_cost": "{5}{U}{U}",
-          "type_line": "Legendary Creature — Phyrexian Praetor",
-          "oracle_text": "Whenever you cast an artifact, instant, or sorcery spell, copy that spell. You may choose new targets for the copy. This ability triggers only once each turn. (A copy of a permanent spell becomes a token.)\nWhenever an opponent casts an artifact, instant, or sorcery spell, counter that spell. This ability triggers only once each turn.",
-          "power": "5",
-          "toughness": "5",
-          "loyalty": null,
-          "defense": null,
-          "colors": [
-            "U"
-          ]
-        }
-      ],
-      "rarity": "mythic",
-      "set": "neo",
-      "set_name": "Kamigawa: Neon Dynasty",
-      "released_at": "2022-02-18",
-      "reserved": false,
-      "game_changer": false,
-      "commander_legal": "legal",
-      "edhrec_rank": 1734,
-      "price_usd": "10.58",
-      "all_parts": [
-        {
-          "name": "Copy",
-          "component": "token",
-          "type_line": "Token"
-        }
-      ],
-      "scryfall_uri": "https://scryfall.com/card/neo/59/jin-gitaxias-progress-tyrant?utm_source=api",
-      "oracle_id": "f5daadc1-98ff-480a-82bb-fe7bfaa7b60e"
-    },
-    {
       "name": "Greensleeves, Maro-Sorcerer",
       "qty": 1,
       "mana_cost": "{3}{G}{G}",
@@ -3419,63 +3257,6 @@
       ],
       "scryfall_uri": "https://scryfall.com/card/dmc/27/greensleeves-maro-sorcerer?utm_source=api",
       "oracle_id": "2ac2d483-2d2a-4912-8db4-04a5a2080831"
-    },
-    {
-      "name": "Goldvein Hydra",
-      "qty": 1,
-      "mana_cost": "{X}{G}",
-      "cmc": 1.0,
-      "type_line": "Creature — Hydra",
-      "layout": "normal",
-      "colors": [
-        "G"
-      ],
-      "color_identity": [
-        "G"
-      ],
-      "produced_mana": [],
-      "keywords": [
-        "Vigilance",
-        "Treasure",
-        "Haste",
-        "Trample"
-      ],
-      "power": "0",
-      "toughness": "0",
-      "loyalty": null,
-      "faces": [
-        {
-          "name": "Goldvein Hydra",
-          "mana_cost": "{X}{G}",
-          "type_line": "Creature — Hydra",
-          "oracle_text": "Vigilance, trample, haste\nThis creature enters with X +1/+1 counters on it.\nWhen this creature dies, create a number of tapped Treasure tokens equal to its power.",
-          "power": "0",
-          "toughness": "0",
-          "loyalty": null,
-          "defense": null,
-          "colors": [
-            "G"
-          ]
-        }
-      ],
-      "rarity": "mythic",
-      "set": "soc",
-      "set_name": "Secrets of Strixhaven Commander",
-      "released_at": "2026-04-24",
-      "reserved": false,
-      "game_changer": false,
-      "commander_legal": "legal",
-      "edhrec_rank": 1429,
-      "price_usd": "3.46",
-      "all_parts": [
-        {
-          "name": "Treasure",
-          "component": "token",
-          "type_line": "Token Artifact — Treasure"
-        }
-      ],
-      "scryfall_uri": "https://scryfall.com/card/soc/270/goldvein-hydra?utm_source=api",
-      "oracle_id": "2b62543f-a475-457a-a96b-b5d070383d3c"
     },
     {
       "name": "Springheart Nantuko",
@@ -3733,8 +3514,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 1150,
-      "price_usd": "4.39",
+      "edhrec_rank": 1071,
+      "price_usd": "4.76",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/tdm/144/herd-heirloom?utm_source=api",
       "oracle_id": "78b6dd40-c182-4037-a4d3-9fd012b2c584"
@@ -3792,6 +3573,215 @@
       ],
       "scryfall_uri": "https://scryfall.com/card/fra/118/verdant-kraken?utm_source=api",
       "oracle_id": "83c61083-b357-4775-a855-5a9013cc2bdf"
+    },
+    {
+      "name": "Heroic Intervention",
+      "qty": 1,
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "type_line": "Instant",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Heroic Intervention",
+          "mana_cost": "{1}{G}",
+          "type_line": "Instant",
+          "oracle_text": "Permanents you control gain hexproof and indestructible until end of turn.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "cmm",
+      "set_name": "Commander Masters",
+      "released_at": "2023-08-04",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 28,
+      "price_usd": "15.99",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/cmm/295/heroic-intervention?utm_source=api",
+      "oracle_id": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27"
+    },
+    {
+      "name": "Lotus Cobra",
+      "qty": 1,
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "type_line": "Creature — Snake",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [
+        "Landfall"
+      ],
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Lotus Cobra",
+          "mana_cost": "{1}{G}",
+          "type_line": "Creature — Snake",
+          "oracle_text": "Landfall — Whenever a land you control enters, add one mana of any color.",
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "znr",
+      "set_name": "Zendikar Rising",
+      "released_at": "2020-09-25",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 329,
+      "price_usd": "5.89",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/znr/193/lotus-cobra?utm_source=api",
+      "oracle_id": "8ad91f64-ccab-4edc-bd54-b2ee9267d614"
+    },
+    {
+      "name": "Turntimber Symbiosis // Turntimber, Serpentine Wood",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 7.0,
+      "type_line": "Sorcery // Land",
+      "layout": "modal_dfc",
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [
+        "G"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Turntimber Symbiosis",
+          "mana_cost": "{4}{G}{G}{G}",
+          "type_line": "Sorcery",
+          "oracle_text": "Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. If that card has mana value 3 or less, it enters with three additional +1/+1 counters on it. Put the rest on the bottom of your library in a random order.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        },
+        {
+          "name": "Turntimber, Serpentine Wood",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {G}.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "mythic",
+      "set": "znr",
+      "set_name": "Zendikar Rising",
+      "released_at": "2020-09-25",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2337,
+      "price_usd": "4.51",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/znr/215/turntimber-symbiosis-turntimber-serpentine-wood?utm_source=api",
+      "oracle_id": "403b59f3-7ade-4bc2-a3e6-de0c3c700f18"
+    },
+    {
+      "name": "Jin-Gitaxias, Progress Tyrant",
+      "qty": 1,
+      "mana_cost": "{5}{U}{U}",
+      "cmc": 7.0,
+      "type_line": "Legendary Creature — Phyrexian Praetor",
+      "layout": "normal",
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Jin-Gitaxias, Progress Tyrant",
+          "mana_cost": "{5}{U}{U}",
+          "type_line": "Legendary Creature — Phyrexian Praetor",
+          "oracle_text": "Whenever you cast an artifact, instant, or sorcery spell, copy that spell. You may choose new targets for the copy. This ability triggers only once each turn. (A copy of a permanent spell becomes a token.)\nWhenever an opponent casts an artifact, instant, or sorcery spell, counter that spell. This ability triggers only once each turn.",
+          "power": "5",
+          "toughness": "5",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "U"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "neo",
+      "set_name": "Kamigawa: Neon Dynasty",
+      "released_at": "2022-02-18",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 1734,
+      "price_usd": "10.58",
+      "all_parts": [
+        {
+          "name": "Copy",
+          "component": "token",
+          "type_line": "Token"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/neo/59/jin-gitaxias-progress-tyrant?utm_source=api",
+      "oracle_id": "f5daadc1-98ff-480a-82bb-fe7bfaa7b60e"
     }
   ]
 }
