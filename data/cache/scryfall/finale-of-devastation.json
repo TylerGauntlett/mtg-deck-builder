@@ -5,6 +5,7 @@
   "multiverse_ids": [
     627753
   ],
+  "resource_id": "A7536B951E504B013FE742143F92241BFECB9C7B05DDE09C64B48582EE3275DB",
   "mtgo_id": 114807,
   "tcgplayer_id": 504142,
   "cardmarket_id": 721925,
@@ -116,11 +117,11 @@
     "previewed_at": "2023-07-12"
   },
   "prices": {
-    "usd": "30.60",
-    "usd_foil": "51.91",
+    "usd": "30.07",
+    "usd_foil": "48.73",
     "usd_etched": null,
-    "eur": "28.58",
-    "eur_foil": "33.50",
+    "eur": "29.19",
+    "eur_foil": "33.24",
     "tix": "3.04"
   },
   "related_uris": {
