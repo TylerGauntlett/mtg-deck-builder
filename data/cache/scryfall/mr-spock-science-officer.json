@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "d19fc127-669e-4264-935a-e5991e6c0964",
+  "oracle_id": "869bde03-8813-43a9-9df5-a21c62511b4b",
+  "multiverse_ids": [],
+  "resource_id": "6D4E1BBE93D84A40BA22E08D0B93B23CC21BEAF8A67A338D65E7495542FF901D",
+  "mtgo_id": 158288,
+  "tcgplayer_id": 725019,
+  "cardmarket_id": 918538,
+  "name": "Mr. Spock, Science Officer",
+  "lang": "en",
+  "released_at": "2026-11-13",
+  "uri": "https://api.scryfall.com/cards/d19fc127-669e-4264-935a-e5991e6c0964",
+  "scryfall_uri": "https://scryfall.com/card/trk/74/mr-spock-science-officer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_updated_at": "2026-10-20T14:56:32Z",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.jpg?1792508192",
+    "normal": "https://cards.scryfall.io/normal/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.jpg?1792508192",
+    "large": "https://cards.scryfall.io/large/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.jpg?1792508192",
+    "png": "https://cards.scryfall.io/png/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.png?1792508192",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.jpg?1792508192",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.jpg?1792508192",
+    "thumb": "https://cards.scryfall.io/thumb/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.webp?1792508192",
+    "grid": "https://cards.scryfall.io/grid/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.webp?1792508192",
+    "display": "https://cards.scryfall.io/display/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.webp?1792508192",
+    "art": "https://cards.scryfall.io/art/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.webp?1792508192",
+    "crop": "https://cards.scryfall.io/crop/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.webp?1792508192",
+    "jpeg": "https://cards.scryfall.io/normal/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.jpg?1792508192"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Vulcan Human Scientist",
+  "oracle_text": "If you would draw a card, draw two cards instead.",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "competitivebrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "b47039dc-da5a-448c-8feb-e77d458108a6",
+  "set": "trk",
+  "set_name": "Star Trek",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/b47039dc-da5a-448c-8feb-e77d458108a6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atrk&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/trk?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d19fc127-669e-4264-935a-e5991e6c0964/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A869bde03-8813-43a9-9df5-a21c62511b4b&unique=prints",
+  "collector_number": "74",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"Insufficient facts always invites danger.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Colin Boyer",
+  "artist_ids": [
+    "9c201dbe-db56-429a-87e6-189ea70c2632"
+  ],
+  "illustration_id": "9b0aa143-b3f3-47d4-bbc2-f7319e8dd5c4",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "universesbeyond"
+  ],
+  "edhrec_rank": 19794,
+  "prices": {
+    "usd": "8.47",
+    "usd_foil": "9.75",
+    "usd_etched": null,
+    "eur": "8.24",
+    "eur_foil": "16.41",
+    "tix": "1.98"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMr.%2BSpock%252C%2BScience%2BOfficer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMr.%2BSpock%252C%2BScience%2BOfficer",
+    "edhrec": "https://edhrec.com/route/?cc=Mr.+Spock%2C+Science+Officer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F725019%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=918538&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/158288?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

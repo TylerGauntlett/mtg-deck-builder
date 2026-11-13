@@ -1,7 +1,7 @@
 {
   "deck": "lander_commander",
   "source": "https://moxfield.com/decks/brDuu9c6_0yuaoHLijLFHw",
-  "moxfield_updated": "2026-11-04T15:25:39.92Z",
+  "moxfield_updated": "2026-11-12T14:12:30.447Z",
   "stats": {
     "cards": 100,
     "distinct": 78,
@@ -1833,8 +1833,8 @@
       "reserved": false,
       "game_changer": true,
       "commander_legal": "legal",
-      "edhrec_rank": 164,
-      "price_usd": "17.29",
+      "edhrec_rank": 165,
+      "price_usd": "17.60",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/dmr/60/mystical-tutor?utm_source=api",
       "oracle_id": "fb81f95c-70f8-4eb7-8d15-15d0ae23ec03"
@@ -2224,7 +2224,7 @@
       "game_changer": false,
       "commander_legal": "legal",
       "edhrec_rank": 295,
-      "price_usd": "24.79",
+      "price_usd": "25.73",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/tdm/138/craterhoof-behemoth?utm_source=api",
       "oracle_id": "8c52bd39-0586-48ca-b263-17210cf9feb6"
@@ -2454,7 +2454,7 @@
       "game_changer": false,
       "commander_legal": "legal",
       "edhrec_rank": 297,
-      "price_usd": "30.60",
+      "price_usd": "30.07",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/cmm/289/finale-of-devastation?utm_source=api",
       "oracle_id": "69872a9a-fe54-4e58-940c-89395af71acd"
@@ -2981,8 +2981,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 974,
-      "price_usd": "3.85",
+      "edhrec_rank": 1011,
+      "price_usd": "4.14",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/cmr/239/kodama-of-the-east-tree?utm_source=api",
       "oracle_id": "cb1afab6-b9c8-4b9c-840b-24106523a783"
