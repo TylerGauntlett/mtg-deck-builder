@@ -391,8 +391,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 1155,
-      "price_usd": "0.69",
+      "edhrec_rank": 1152,
+      "price_usd": "0.68",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/cmm/823/grasp-of-fate?utm_source=api",
       "oracle_id": "1b26a54f-6c27-4940-b77e-2a66175c5eff"
@@ -431,8 +431,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 151,
-      "price_usd": null,
+      "edhrec_rank": 153,
+      "price_usd": "1.58",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/trc/493/heralds-horn?utm_source=api",
       "oracle_id": "c02c5547-b9c9-4b2d-9d12-e87bfba8f2d2"
@@ -742,7 +742,7 @@
       "game_changer": false,
       "commander_legal": "legal",
       "edhrec_rank": 355,
-      "price_usd": "16.74",
+      "price_usd": "16.90",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/soc/153/land-tax?utm_source=api",
       "oracle_id": "d2d9ecea-7925-420e-98b9-2f87f41f387c"
@@ -936,8 +936,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 558,
-      "price_usd": "8.53",
+      "edhrec_rank": 557,
+      "price_usd": "8.20",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/inr/17/cathars-crusade?utm_source=api",
       "oracle_id": "cc65ac73-5bef-4ecb-ad8e-39199084c027"
@@ -1074,8 +1074,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 312,
-      "price_usd": "20.15",
+      "edhrec_rank": 311,
+      "price_usd": "22.54",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/mh3/297/urzas-incubator?utm_source=api",
       "oracle_id": "b380c04b-0bce-4328-8f0a-1425e48bee72"
@@ -1166,8 +1166,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 3334,
-      "price_usd": "17.83",
+      "edhrec_rank": 3340,
+      "price_usd": "16.24",
       "all_parts": [
         {
           "name": "Angel",
@@ -2143,8 +2143,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 384,
-      "price_usd": "4.24",
+      "edhrec_rank": 386,
+      "price_usd": "5.57",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/lcc/316/vanquishers-banner?utm_source=api",
       "oracle_id": "8cf38025-5821-45a0-9483-266353b7e82d"
@@ -2301,8 +2301,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 1635,
-      "price_usd": "2.93",
+      "edhrec_rank": 1630,
+      "price_usd": "2.17",
       "all_parts": [
         {
           "name": "Angel",
