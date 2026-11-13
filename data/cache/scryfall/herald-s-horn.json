@@ -3,6 +3,10 @@
   "id": "e8fcf84c-0c2e-42c4-b860-622227e3cde3",
   "oracle_id": "c02c5547-b9c9-4b2d-9d12-e87bfba8f2d2",
   "multiverse_ids": [],
+  "resource_id": "44E42D54A5C47B46E29E8BB667D70930A0DF9E987CA332ABD5E5A0E863864C42",
+  "mtgo_id": 157204,
+  "tcgplayer_id": 726917,
+  "cardmarket_id": 919912,
   "name": "Herald's Horn",
   "lang": "en",
   "released_at": "2026-11-13",
@@ -99,16 +103,22 @@
   "booster": false,
   "story_spotlight": false,
   "promo_types": [
+    "surgefoil",
     "universesbeyond"
   ],
-  "edhrec_rank": 151,
+  "edhrec_rank": 153,
+  "preview": {
+    "source": "Anna Margaret",
+    "source_uri": "https://www.youtube.com/watch?v=LqRSDqoQ8O8",
+    "previewed_at": "2026-10-28"
+  },
   "prices": {
-    "usd": null,
+    "usd": "1.58",
     "usd_foil": null,
     "usd_etched": null,
-    "eur": null,
+    "eur": "4.53",
     "eur_foil": null,
-    "tix": null
+    "tix": "1.07"
   },
   "related_uris": {
     "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHerald%2527s%2BHorn",
@@ -116,8 +126,8 @@
     "edhrec": "https://edhrec.com/route/?cc=Herald%27s+Horn"
   },
   "purchase_uris": {
-    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHerald%2527s%2BHorn%26view%3Dgrid",
-    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Herald%27s+Horn&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
-    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Herald%27s+Horn&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F726917%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=919912&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/157204?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
   }
 }

@@ -5,6 +5,7 @@
   "multiverse_ids": [
     625228
   ],
+  "resource_id": "3722B4AD5E9B64C7001D78CE1ACDCBFDF3F6141651488A6DE484C34F3F447870",
   "mtgo_id": 113987,
   "tcgplayer_id": 505975,
   "cardmarket_id": 723094,
@@ -108,15 +109,15 @@
   "textless": false,
   "booster": false,
   "story_spotlight": false,
-  "edhrec_rank": 1155,
-  "penny_rank": 15905,
+  "edhrec_rank": 1152,
+  "penny_rank": 15918,
   "prices": {
-    "usd": "0.69",
+    "usd": "0.68",
     "usd_foil": null,
     "usd_etched": null,
-    "eur": "0.32",
+    "eur": "0.28",
     "eur_foil": null,
-    "tix": "0.08"
+    "tix": "0.13"
   },
   "related_uris": {
     "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=625228&printed=false",
