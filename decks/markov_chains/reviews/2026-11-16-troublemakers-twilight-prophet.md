@@ -30,8 +30,8 @@ the deck multiply the drain:
 
 Expected X: the deck's 100 cards average **1.94 mana value**, counting lands as 0.
 So the baseline is about 2 to each opponent per upkeep, plus one card. With
-Bloodletter it's about 4 to each opponent. With Vito out too, one opponent takes
-about 6.
+Bloodletter it's about 4 to each opponent. With Vito out too, Vito's opponent loses
+another 2, doubled to 4, so about 8 in total.
 
 **Tests:**
 - **Redundancy, as effect × frequency × duration.** The deck's other upkeep card
