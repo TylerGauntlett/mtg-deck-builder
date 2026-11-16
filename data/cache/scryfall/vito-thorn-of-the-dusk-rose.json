@@ -1,36 +1,36 @@
 {
   "object": "card",
-  "id": "0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5",
+  "id": "5deb74ff-15df-4894-b074-9a98731bd2c0",
   "oracle_id": "7336a541-3ae9-4ab2-acb8-f574c0a5b3a9",
   "multiverse_ids": [
-    485450
+    681106
   ],
-  "mtgo_id": 81481,
-  "arena_id": 71909,
-  "tcgplayer_id": 215384,
-  "cardmarket_id": 466424,
+  "mtgo_id": 132720,
+  "arena_id": 93584,
+  "tcgplayer_id": 590683,
+  "cardmarket_id": 795492,
   "name": "Vito, Thorn of the Dusk Rose",
   "lang": "en",
-  "released_at": "2020-07-03",
-  "uri": "https://api.scryfall.com/cards/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5",
-  "scryfall_uri": "https://scryfall.com/card/m21/127/vito-thorn-of-the-dusk-rose?utm_source=api",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/5deb74ff-15df-4894-b074-9a98731bd2c0",
+  "scryfall_uri": "https://scryfall.com/card/j25/71/vito-thorn-of-the-dusk-rose?utm_source=api",
   "layout": "normal",
   "highres_image": true,
   "image_status": "highres_scan",
-  "image_updated_at": "2026-07-13T08:18:18Z",
+  "image_updated_at": "2026-07-13T02:14:10Z",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.jpg?1783930698",
-    "normal": "https://cards.scryfall.io/normal/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.jpg?1783930698",
-    "large": "https://cards.scryfall.io/large/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.jpg?1783930698",
-    "png": "https://cards.scryfall.io/png/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.png?1783930698",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.jpg?1783930698",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.jpg?1783930698",
-    "thumb": "https://cards.scryfall.io/thumb/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.webp?1783930698",
-    "grid": "https://cards.scryfall.io/grid/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.webp?1783930698",
-    "display": "https://cards.scryfall.io/display/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.webp?1783930698",
-    "art": "https://cards.scryfall.io/art/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.webp?1783930698",
-    "crop": "https://cards.scryfall.io/crop/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.webp?1783930698",
-    "jpeg": "https://cards.scryfall.io/normal/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.jpg?1783930698"
+    "small": "https://cards.scryfall.io/small/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.jpg?1783908850",
+    "normal": "https://cards.scryfall.io/normal/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.jpg?1783908850",
+    "large": "https://cards.scryfall.io/large/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.jpg?1783908850",
+    "png": "https://cards.scryfall.io/png/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.png?1783908850",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.jpg?1783908850",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.jpg?1783908850",
+    "thumb": "https://cards.scryfall.io/thumb/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.webp?1783908850",
+    "grid": "https://cards.scryfall.io/grid/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.webp?1783908850",
+    "display": "https://cards.scryfall.io/display/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.webp?1783908850",
+    "art": "https://cards.scryfall.io/art/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.webp?1783908850",
+    "crop": "https://cards.scryfall.io/crop/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.webp?1783908850",
+    "jpeg": "https://cards.scryfall.io/normal/front/5/d/5deb74ff-15df-4894-b074-9a98731bd2c0.jpg?1783908850"
   },
   "mana_cost": "{2}{B}",
   "cmc": 3.0,
@@ -71,41 +71,40 @@
     "tlr": "legal"
   },
   "games": [
-    "arena",
     "paper",
+    "arena",
     "mtgo"
   ],
   "reserved": false,
   "game_changer": false,
-  "foil": true,
+  "foil": false,
   "nonfoil": true,
   "finishes": [
-    "nonfoil",
-    "foil"
+    "nonfoil"
   ],
   "oversized": false,
   "promo": false,
-  "reprint": false,
+  "reprint": true,
   "variation": false,
-  "set_id": "bc94aba1-7376-4e02-a12d-3a2efb66ab0f",
-  "set": "m21",
-  "set_name": "Core Set 2021",
-  "set_type": "core",
-  "set_uri": "https://api.scryfall.com/sets/bc94aba1-7376-4e02-a12d-3a2efb66ab0f",
-  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am21&unique=prints",
-  "scryfall_set_uri": "https://scryfall.com/sets/m21?utm_source=api",
-  "rulings_uri": "https://api.scryfall.com/cards/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5/rulings",
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5deb74ff-15df-4894-b074-9a98731bd2c0/rulings",
   "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7336a541-3ae9-4ab2-acb8-f574c0a5b3a9&unique=prints",
-  "collector_number": "127",
+  "collector_number": "71",
   "digital": false,
   "rarity": "rare",
-  "flavor_text": "\"Through the blood of the wicked, we shall be redeemed. Let us pray.\"",
+  "flavor_text": "\"Oppose us and die a heretic. Join us and be blessed with immortality.\"",
   "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
-  "artist": "Lie Setiawan",
+  "artist": "Susumu Kuroi",
   "artist_ids": [
-    "6f771d3f-310e-4aa4-841f-5ba4ba9f025a"
+    "d7c3e36a-854a-4f0b-b144-d22fca901bbc"
   ],
-  "illustration_id": "db7fd6da-2e7e-4bd8-9b4c-d48e53c903a6",
+  "illustration_id": "550a250c-e015-4dcc-a007-be720054fc7b",
   "border_color": "black",
   "frame": "2015",
   "frame_effects": [
@@ -114,32 +113,27 @@
   "security_stamp": "oval",
   "full_art": false,
   "textless": false,
-  "booster": true,
+  "booster": false,
   "story_spotlight": false,
-  "edhrec_rank": 488,
-  "penny_rank": 2816,
-  "preview": {
-    "source": "Wizards of the Coast",
-    "source_uri": "https://twitter.com/riptideprolab/status/1268903731430674433",
-    "previewed_at": "2020-06-05"
-  },
+  "edhrec_rank": 489,
+  "penny_rank": 2843,
   "prices": {
-    "usd": "10.82",
-    "usd_foil": "10.49",
+    "usd": "10.28",
+    "usd_foil": null,
     "usd_etched": null,
-    "eur": "9.00",
-    "eur_foil": "7.88",
-    "tix": "0.03"
+    "eur": "9.54",
+    "eur_foil": null,
+    "tix": "0.57"
   },
   "related_uris": {
-    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485450&printed=false",
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=681106&printed=false",
     "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVito%252C%2BThorn%2Bof%2Bthe%2BDusk%2BRose",
     "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVito%252C%2BThorn%2Bof%2Bthe%2BDusk%2BRose",
     "edhrec": "https://edhrec.com/route/?cc=Vito%2C+Thorn+of+the+Dusk+Rose"
   },
   "purchase_uris": {
-    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F215384%3Fpage%3D1",
-    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=466424&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
-    "cardhoarder": "https://www.cardhoarder.com/cards/81481?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590683%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=795492&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/132720?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
   }
 }

@@ -50,7 +50,7 @@
   ],
   "legalities": {
     "standard": "legal",
-    "future": "legal",
+    "future": "not_legal",
     "historic": "legal",
     "timeless": "legal",
     "gladiator": "legal",
@@ -116,19 +116,19 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 2800,
-  "penny_rank": 8602,
+  "edhrec_rank": 2828,
+  "penny_rank": 8787,
   "preview": {
     "source": "Wizards of the Coast",
     "source_uri": "https://weibo.com/2643025570/4991125029388936",
     "previewed_at": "2024-01-16"
   },
   "prices": {
-    "usd": "7.41",
-    "usd_foil": "8.22",
+    "usd": "7.94",
+    "usd_foil": "8.12",
     "usd_etched": null,
-    "eur": "7.67",
-    "eur_foil": "9.15",
+    "eur": "7.41",
+    "eur_foil": "10.15",
     "tix": "0.02"
   },
   "related_uris": {

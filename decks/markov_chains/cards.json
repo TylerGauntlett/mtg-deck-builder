@@ -1090,8 +1090,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 191,
-      "price_usd": "3.17",
+      "edhrec_rank": 190,
+      "price_usd": "3.94",
       "all_parts": [
         {
           "name": "Eldrazi",
@@ -2675,16 +2675,16 @@
         }
       ],
       "rarity": "rare",
-      "set": "lcc",
-      "set_name": "The Lost Caverns of Ixalan Commander",
-      "released_at": "2023-11-17",
+      "set": "j25",
+      "set_name": "Foundations Jumpstart",
+      "released_at": "2024-11-15",
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 2319,
-      "price_usd": "0.32",
+      "edhrec_rank": 2375,
+      "price_usd": "0.34",
       "all_parts": [],
-      "scryfall_uri": "https://scryfall.com/card/lcc/209/sanctum-seeker?utm_source=api",
+      "scryfall_uri": "https://scryfall.com/card/j25/485/sanctum-seeker?utm_source=api",
       "oracle_id": "afb71560-0fc9-4ea5-9d52-d93c17d72519"
     },
     {
@@ -3582,7 +3582,7 @@
       "game_changer": false,
       "commander_legal": "legal",
       "edhrec_rank": 232,
-      "price_usd": "1.76",
+      "price_usd": "1.40",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/ltr/95/mirkwood-bats?utm_source=api",
       "oracle_id": "0636b6c3-0662-420a-b30d-f0a14e7c512d"
@@ -3829,8 +3829,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 4476,
-      "price_usd": "0.33",
+      "edhrec_rank": 4512,
+      "price_usd": "0.34",
       "all_parts": [
         {
           "name": "Vampire Rogue",
@@ -4234,8 +4234,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 1810,
-      "price_usd": "0.29",
+      "edhrec_rank": 1826,
+      "price_usd": "0.26",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/lci/224/bartolom%C3%A9-del-presidio?utm_source=api",
       "oracle_id": "f47e4c56-0a0b-422d-bf3d-7a20ee289f15"
@@ -4285,8 +4285,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 2848,
-      "price_usd": "7.47",
+      "edhrec_rank": 2918,
+      "price_usd": "7.07",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/lcc/5/carmen-cruel-skymarcher?utm_source=api",
       "oracle_id": "84c24e62-26bd-4ca4-b6b9-d31e2065f13b"
