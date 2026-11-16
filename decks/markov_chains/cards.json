@@ -1,7 +1,7 @@
 {
   "deck": "markov_chains",
   "source": "https://moxfield.com/decks/Sr3op2p6G0m0Msv1n_jLZw",
-  "moxfield_updated": "2026-11-07T20:41:44.017Z",
+  "moxfield_updated": "2026-11-09T14:08:42.433Z",
   "stats": {
     "cards": 100,
     "distinct": 90,
@@ -494,8 +494,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 151,
-      "price_usd": null,
+      "edhrec_rank": 153,
+      "price_usd": "1.58",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/trc/493/heralds-horn?utm_source=api",
       "oracle_id": "c02c5547-b9c9-4b2d-9d12-e87bfba8f2d2"

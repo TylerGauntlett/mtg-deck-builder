@@ -67,7 +67,7 @@
   ],
   "legalities": {
     "standard": "legal",
-    "future": "legal",
+    "future": "not_legal",
     "historic": "legal",
     "timeless": "legal",
     "gladiator": "legal",
@@ -135,19 +135,19 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 4476,
-  "penny_rank": 15582,
+  "edhrec_rank": 4512,
+  "penny_rank": 15603,
   "preview": {
     "source": "Jack Torrance",
     "source_uri": "https://www.twitch.tv/jacktorrance90/videos",
     "previewed_at": "2024-03-28"
   },
   "prices": {
-    "usd": "0.33",
-    "usd_foil": "0.40",
+    "usd": "0.34",
+    "usd_foil": "0.39",
     "usd_etched": null,
-    "eur": "0.15",
-    "eur_foil": "0.22",
+    "eur": "0.16",
+    "eur_foil": "0.28",
     "tix": "0.03"
   },
   "related_uris": {
