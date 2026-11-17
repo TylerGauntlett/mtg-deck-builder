@@ -139,19 +139,19 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 3171,
+  "edhrec_rank": 3176,
   "preview": {
     "source": "Wizards of the Coast",
     "source_uri": "",
     "previewed_at": "2024-10-25"
   },
   "prices": {
-    "usd": "44.32",
-    "usd_foil": "46.65",
+    "usd": "43.42",
+    "usd_foil": "48.48",
     "usd_etched": null,
-    "eur": "31.65",
-    "eur_foil": "37.19",
-    "tix": "2.00"
+    "eur": "33.18",
+    "eur_foil": "38.83",
+    "tix": "1.90"
   },
   "related_uris": {
     "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=686083&printed=false",
