@@ -71,8 +71,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 1607,
-      "price_usd": "0.48",
+      "edhrec_rank": 1602,
+      "price_usd": "0.52",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/fdn/141/giada-font-of-hope?utm_source=api",
       "oracle_id": "48e6d3d8-2f27-4017-acdd-40bce8cdbc02"
@@ -251,8 +251,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 2189,
-      "price_usd": "0.34",
+      "edhrec_rank": 2166,
+      "price_usd": "0.31",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/msc/223/tome-of-legends?utm_source=api",
       "oracle_id": "cada2a1c-5db2-4702-9a57-cbe7da1bf208"
@@ -345,8 +345,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 857,
-      "price_usd": "21.03",
+      "edhrec_rank": 865,
+      "price_usd": "20.29",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/ima/18/elesh-norn-grand-cenobite?utm_source=api",
       "oracle_id": "958d71ff-c9f7-46f0-96ca-79e7f4d65a16"
@@ -2757,8 +2757,8 @@
       "reserved": false,
       "game_changer": true,
       "commander_legal": "legal",
-      "edhrec_rank": 180,
-      "price_usd": "6.03",
+      "edhrec_rank": 182,
+      "price_usd": "5.14",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/mkc/64/farewell?utm_source=api",
       "oracle_id": "4eb813fd-2d5a-4b02-8193-662681ef4e7d"

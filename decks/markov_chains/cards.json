@@ -1,7 +1,7 @@
 {
   "deck": "markov_chains",
   "source": "https://moxfield.com/decks/Sr3op2p6G0m0Msv1n_jLZw",
-  "moxfield_updated": "2026-11-17T00:24:45.173Z",
+  "moxfield_updated": "2026-11-23T18:28:31.793Z",
   "stats": {
     "cards": 100,
     "distinct": 90,
@@ -1091,7 +1091,7 @@
       "game_changer": false,
       "commander_legal": "legal",
       "edhrec_rank": 190,
-      "price_usd": "3.94",
+      "price_usd": "4.23",
       "all_parts": [
         {
           "name": "Eldrazi",
@@ -3835,8 +3835,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 4512,
-      "price_usd": "0.34",
+      "edhrec_rank": 4516,
+      "price_usd": "0.35",
       "all_parts": [
         {
           "name": "Vampire Rogue",
@@ -4191,8 +4191,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 430,
-      "price_usd": "2.68",
+      "edhrec_rank": 432,
+      "price_usd": "3.52",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/tdc/140/welcoming-vampire?utm_source=api",
       "oracle_id": "605c1ee0-5e8a-4e0a-a99b-42a38873f822"
