@@ -65,3 +65,42 @@ Valorous Stance $0.30. The verdict doesn't depend on price.
 
 - `card_facts.py lookup`, 2026-11-24.
 - EDHREC: Clever Concealment appears in 10.7% of Giada decks (4,272 / 39,897).
+
+---
+
+# Addendum 1 — Armageddon is gone; convoke reported unusable (2026-11-24)
+
+The user gave two new facts:
+
+1. **Armageddon no longer shows up.**
+2. Clever Concealment can't be convoked in practice: there aren't many tokens,
+   and the ones there are have attacked.
+
+**Fact 1 removes the reason Teferi's was an ADD here.** That leaves the 10-02
+comparison, where Concealment won on lands staying in, selectivity and keeping
+the lifegain engine on.
+
+**Fact 2 checked.** Convoke can tap **any** untapped creature, not just tokens.
+On an opponent's turn, a creature that attacked stays untapped only if it has
+vigilance. This deck has a lot of vigilance (from `cards.md`):
+
+- Giada has vigilance herself.
+- Angelic Field Marshal: "As long as you control your commander … creatures you control have vigilance."
+- Thraben Watcher: "Other nontoken creatures you control … have vigilance."
+- Angels with vigilance natively: Angel of Invention, Avacyn, Elesh Norn, Herald of the Host, Resplendent Angel, Serra the Benevolent.
+
+Tapping creatures to cast it costs nothing, because they phase out (or would
+have died) anyway. So convoke should work more often than "never". If your games
+say otherwise, though, Concealment costs the full `{2}{W}{W}` against Teferi's
+`{2}{W}`.
+
+**That one-mana gap doesn't change the result.** Of the four 10-02 reasons, only
+"convoke is cheap" depended on convoke. The other three (lands up, selective,
+lifegain on) still hold at full cost.
+
+## Revised verdict
+
+- **Teferi's Protection for Clever Concealment: NO.**
+- **Teferi's Protection for Valorous Stance: ADD IF** you lose games to combos,
+  life loss or alpha strikes aimed at **you**. This is the same condition the
+  2026-10-02 remaining-budget review set. Game Changers would go 2 → 3, the cap.

@@ -84,3 +84,36 @@ The NO above does not depend on either price.
 - EDHREC: Bolt Bend is not in Edgar Markov's top, high-lift or new-card lists
   (`edhrec.py commander --diff`, 2026-11-24). Its top commanders are big-power
   red decks (Valgavoth 27.3%, Ob Nixilis Captive Kingpin 56.9%).
+
+---
+
+# Addendum 1 — Armageddon is gone, and the discount is easier to get (2026-11-24)
+
+The user gave two new facts:
+
+1. **Armageddon no longer shows up in the pod.**
+2. +1/+1 counters regularly push the 3-power creatures to 4 power.
+
+**Fact 2 checked against `cards.md`.** The five base-3-power creatures are all
+Vampires: Sanctum Seeker, Marauding Blight-Priest, Baron Bertram Graywater, Qarsi
+Revenant and Ruthless Lawbringer. Three cards put a counter on **each Vampire you
+control**:
+
+- Edgar Markov: "Whenever Edgar attacks, put a +1/+1 counter on each Vampire you control"
+- Cordial Vampire: "Whenever this creature or another creature dies, put a +1/+1 counter on each Vampire you control"
+- Indulgent Aristocrat: "{2}, Sacrifice a creature: Put a +1/+1 counter on each Vampire you control"
+
+Counters are permanent, so one Edgar attack or one death with Cordial out lets
+each of those five turn on the discount. That's eleven creatures that can meet
+the condition, on top of the six with base power 4 or more. I underrated this:
+by mid-game, Bolt Bend will usually cost `{R}`.
+
+**Fact 1** removes the only reason Teferi's was in the deck. It goes back to its
+original 2026-08-31 NO: it shuts off the life-change engine (Vito, Blight-Priest,
+Conqueror) and phases out your lands. Clever Concealment still answers Farewell.
+
+## Revised verdict: **ADD Bolt Bend, cut Teferi's Protection.**
+
+What you give up: protection for **yourself** from lethal damage or a combo kill
+for one turn cycle. Nothing else in the deck does that. Accept it knowingly.
+Game Changers go from 2 to 1.
