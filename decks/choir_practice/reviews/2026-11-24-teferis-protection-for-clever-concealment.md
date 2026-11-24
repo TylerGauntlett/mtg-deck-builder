@@ -37,7 +37,7 @@ Teferi's worth a slot here. It doesn't make Clever Concealment the right cut.
 
 ## Why Valorous Stance, not Clever Concealment
 
-Answers to exile wipes (Farewell, Cleansing Nova and the like):
+Answers to exile wipes (Farewell):
 
 | Plan | Phasing answers | Armageddon answers |
 |---|---|---|
