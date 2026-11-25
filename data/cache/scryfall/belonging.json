@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "a930c3f1-9c59-4627-829a-3cefb87ae2f4",
+  "oracle_id": "0ec88e35-191b-411b-9eb0-2dfef7ae4174",
+  "multiverse_ids": [],
+  "resource_id": "BCB84E7BD31481C3EC44D2F10BF7752A19CD5788819082E5A976707754010A9C",
+  "mtgo_id": 145983,
+  "tcgplayer_id": 671131,
+  "cardmarket_id": 864957,
+  "name": "Belonging",
+  "lang": "en",
+  "released_at": "2026-01-23",
+  "uri": "https://api.scryfall.com/cards/a930c3f1-9c59-4627-829a-3cefb87ae2f4",
+  "scryfall_uri": "https://scryfall.com/card/ecc/5/belonging?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_updated_at": "2026-07-13T01:03:27Z",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/9/a930c3f1-9c59-4627-829a-3cefb87ae2f4.jpg?1783904607",
+    "normal": "https://cards.scryfall.io/normal/front/a/9/a930c3f1-9c59-4627-829a-3cefb87ae2f4.jpg?1783904607",
+    "large": "https://cards.scryfall.io/large/front/a/9/a930c3f1-9c59-4627-829a-3cefb87ae2f4.jpg?1783904607",
+    "png": "https://cards.scryfall.io/png/front/a/9/a930c3f1-9c59-4627-829a-3cefb87ae2f4.png?1783904607",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/9/a930c3f1-9c59-4627-829a-3cefb87ae2f4.jpg?1783904607",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/9/a930c3f1-9c59-4627-829a-3cefb87ae2f4.jpg?1783904607",
+    "thumb": "https://cards.scryfall.io/thumb/front/a/9/a930c3f1-9c59-4627-829a-3cefb87ae2f4.webp?1783904607",
+    "grid": "https://cards.scryfall.io/grid/front/a/9/a930c3f1-9c59-4627-829a-3cefb87ae2f4.webp?1783904607",
+    "display": "https://cards.scryfall.io/display/front/a/9/a930c3f1-9c59-4627-829a-3cefb87ae2f4.webp?1783904607",
+    "art": "https://cards.scryfall.io/art/front/a/9/a930c3f1-9c59-4627-829a-3cefb87ae2f4.webp?1783904607",
+    "crop": "https://cards.scryfall.io/crop/front/a/9/a930c3f1-9c59-4627-829a-3cefb87ae2f4.webp?1783904607",
+    "jpeg": "https://cards.scryfall.io/normal/front/a/9/a930c3f1-9c59-4627-829a-3cefb87ae2f4.jpg?1783904607"
+  },
+  "mana_cost": "{5}{W}",
+  "cmc": 6.0,
+  "type_line": "Creature — Elemental Incarnation",
+  "oracle_text": "When this creature enters, create three 1/1 colorless Shapeshifter creature tokens with changeling. (They're every creature type.)\nEncore {6}{W}{W} ({6}{W}{W}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Encore"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e97c95ac-f992-4e99-9469-bc1bc695e49f",
+      "component": "combo_piece",
+      "name": "Belonging",
+      "type_line": "Creature — Elemental Incarnation",
+      "uri": "https://api.scryfall.com/cards/e97c95ac-f992-4e99-9469-bc1bc695e49f"
+    },
+    {
+      "object": "related_card",
+      "id": "c2963ce1-f9d8-437a-9489-e0913a8b8d26",
+      "component": "token",
+      "name": "Shapeshifter",
+      "type_line": "Token Creature — Shapeshifter",
+      "uri": "https://api.scryfall.com/cards/c2963ce1-f9d8-437a-9489-e0913a8b8d26"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "competitivebrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "805b5a0c-f8bb-4555-86ea-eb9ec36a011a",
+  "set": "ecc",
+  "set_name": "Lorwyn Eclipsed Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/805b5a0c-f8bb-4555-86ea-eb9ec36a011a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aecc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ecc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a930c3f1-9c59-4627-829a-3cefb87ae2f4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0ec88e35-191b-411b-9eb0-2dfef7ae4174&unique=prints",
+  "collector_number": "5",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Danny Schwartz",
+  "artist_ids": [
+    "48e30a4a-5b4d-48e2-9c53-03125085374e"
+  ],
+  "illustration_id": "4cd111c8-9e36-4a9e-9433-a65885c09d9f",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7085,
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.23",
+    "eur_foil": null,
+    "tix": "0.72"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBelonging",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBelonging",
+    "edhrec": "https://edhrec.com/route/?cc=Belonging"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F671131%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=864957&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/145983?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

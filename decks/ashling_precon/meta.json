@@ -1,0 +1,18 @@
+{
+  "commander": [
+    "Ashling, the Limitless"
+  ],
+  "format": "commander",
+  "bracket": 2,
+  "source": "https://moxfield.com/decks/rAPkfcR-70Sm4myQuqwDag",
+  "budget": {
+    "per_card_max_usd": null
+  },
+  "goals": "Ashling, the Limitless precon as printed; evaluate weaknesses and upgrades while staying bracket 2 (no Game Changers, no early infinites, no MLD, no chained extra turns).",
+  "meta": "",
+  "constraints": [
+    "Stay bracket 2"
+  ],
+  "preferences": [],
+  "updated": "2026-11-25"
+}

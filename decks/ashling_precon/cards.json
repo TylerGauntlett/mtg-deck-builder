@@ -1,0 +1,4456 @@
+{
+  "deck": "ashling_precon",
+  "source": "https://moxfield.com/decks/rAPkfcR-70Sm4myQuqwDag",
+  "moxfield_updated": "2026-01-31T03:01:42.943Z",
+  "stats": {
+    "cards": 100,
+    "distinct": 89,
+    "lands": 40,
+    "avg_mana_value_nonland": 4.25,
+    "type_counts": {
+      "Land": 40,
+      "Creature": 36,
+      "Sorcery": 7,
+      "Enchantment": 7,
+      "Artifact": 5,
+      "Instant": 5
+    },
+    "color_pips": {
+      "G": 42,
+      "R": 16,
+      "U": 13,
+      "W": 10,
+      "B": 9
+    },
+    "game_changers": []
+  },
+  "unresolved": [],
+  "cards": [
+    {
+      "name": "Mass of Mysteries",
+      "qty": 1,
+      "mana_cost": "{W}{U}{B}{R}{G}",
+      "cmc": 5.0,
+      "type_line": "Legendary Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "color_identity": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Vigilance",
+        "First strike",
+        "Trample"
+      ],
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Mass of Mysteries",
+          "mana_cost": "{W}{U}{B}{R}{G}",
+          "type_line": "Legendary Creature — Elemental",
+          "oracle_text": "First strike, vigilance, trample\nAt the beginning of combat on your turn, another target Elemental you control gains myriad until end of turn. (Whenever it attacks, for each opponent other than defending player, you may create a token copy that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)",
+          "power": "5",
+          "toughness": "5",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 6392,
+      "price_usd": "0.33",
+      "all_parts": [
+        {
+          "name": "Copy",
+          "component": "token",
+          "type_line": "Token"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/3/mass-of-mysteries?utm_source=api",
+      "oracle_id": "3ceffadd-c32d-4508-b307-e03bf3c8e7b8"
+    },
+    {
+      "name": "Island",
+      "qty": 2,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Basic Land — Island",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "produced_mana": [
+        "U"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "common",
+      "set": "trk",
+      "set_name": "Star Trek",
+      "released_at": "2026-11-13",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": null,
+      "price_usd": null,
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/trk/319/island?utm_source=api",
+      "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373"
+    },
+    {
+      "name": "Mountain",
+      "qty": 2,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Basic Land — Mountain",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "produced_mana": [
+        "R"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "common",
+      "set": "trk",
+      "set_name": "Star Trek",
+      "released_at": "2026-11-13",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": null,
+      "price_usd": null,
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/trk/323/mountain?utm_source=api",
+      "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685"
+    },
+    {
+      "name": "Plains",
+      "qty": 2,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Basic Land — Plains",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "produced_mana": [
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "common",
+      "set": "mdd",
+      "set_name": "Marvel: Darkhold Destiny",
+      "released_at": "2027-04-09",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": null,
+      "price_usd": null,
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/mdd/292/plains?utm_source=api",
+      "oracle_id": "bc71ebf6-2056-41f7-be35-b2e5c34afa99"
+    },
+    {
+      "name": "Swamp",
+      "qty": 2,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Basic Land — Swamp",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "produced_mana": [
+        "B"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "common",
+      "set": "trk",
+      "set_name": "Star Trek",
+      "released_at": "2026-11-13",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": null,
+      "price_usd": null,
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/trk/321/swamp?utm_source=api",
+      "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68"
+    },
+    {
+      "name": "Forest",
+      "qty": 8,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Basic Land — Forest",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [
+        "G"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "common",
+      "set": "trk",
+      "set_name": "Star Trek",
+      "released_at": "2026-11-13",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": null,
+      "price_usd": null,
+      "all_parts": [
+        {
+          "name": "Gilt-Leaf Alchemist",
+          "component": "combo_piece",
+          "type_line": "Creature — Elf Druid"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/trk/325/forest?utm_source=api",
+      "oracle_id": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6"
+    },
+    {
+      "name": "Shatter the Sky",
+      "qty": 1,
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4.0,
+      "type_line": "Sorcery",
+      "layout": "normal",
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Shatter the Sky",
+          "mana_cost": "{2}{W}{W}",
+          "type_line": "Sorcery",
+          "oracle_text": "Each player who controls a creature with power 4 or greater draws a card. Then destroy all creatures.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "W"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 7892,
+      "price_usd": "0.27",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/66/shatter-the-sky?utm_source=api",
+      "oracle_id": "2ffc7509-c7ce-44c4-a8cf-90ed161b5d10"
+    },
+    {
+      "name": "Arcane Signet",
+      "qty": 1,
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "type_line": "Artifact",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Arcane Signet",
+          "mana_cost": "{2}",
+          "type_line": "Artifact",
+          "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "trc",
+      "set_name": "Star Trek Commander",
+      "released_at": "2026-11-13",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 3,
+      "price_usd": null,
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/trc/485/arcane-signet?utm_source=api",
+      "oracle_id": "0bc7f093-bef0-4f1a-852c-4b75ebf54838"
+    },
+    {
+      "name": "Command Tower",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Command Tower",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "common",
+      "set": "msc",
+      "set_name": "Marvel Super Heroes Commander",
+      "released_at": "2026-06-26",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2,
+      "price_usd": "0.33",
+      "all_parts": [
+        {
+          "name": "Tower Winder",
+          "component": "combo_piece",
+          "type_line": "Creature — Snake"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/msc/233/command-tower?utm_source=api",
+      "oracle_id": "0895c9b7-ae7d-4bb3-af17-3b75deb50a25"
+    },
+    {
+      "name": "Faeburrow Elder",
+      "qty": 1,
+      "mana_cost": "{1}{G}{W}",
+      "cmc": 3.0,
+      "type_line": "Creature — Treefolk Druid",
+      "layout": "normal",
+      "colors": [
+        "G",
+        "W"
+      ],
+      "color_identity": [
+        "G",
+        "W"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [
+        "Vigilance"
+      ],
+      "power": "0",
+      "toughness": "0",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Faeburrow Elder",
+          "mana_cost": "{1}{G}{W}",
+          "type_line": "Creature — Treefolk Druid",
+          "oracle_text": "Vigilance\nThis creature gets +1/+1 for each color among permanents you control.\n{T}: For each color among permanents you control, add one mana of that color.",
+          "power": "0",
+          "toughness": "0",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G",
+            "W"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 487,
+      "price_usd": "0.74",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/53/faeburrow-elder?utm_source=api",
+      "oracle_id": "70a6f08e-854d-4e2f-9d8c-c45ec3231157"
+    },
+    {
+      "name": "Return of the Wildspeaker",
+      "qty": 1,
+      "mana_cost": "{4}{G}",
+      "cmc": 5.0,
+      "type_line": "Instant",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Return of the Wildspeaker",
+          "mana_cost": "{4}{G}",
+          "type_line": "Instant",
+          "oracle_text": "Choose one —\n• Draw cards equal to the greatest power among non-Human creatures you control.\n• Non-Human creatures you control get +3/+3 until end of turn.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 179,
+      "price_usd": "2.96",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/115/return-of-the-wildspeaker?utm_source=api",
+      "oracle_id": "2b76f9e9-cd28-4eaf-8674-215c34263f96"
+    },
+    {
+      "name": "Ancient Ziggurat",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Ancient Ziggurat",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "{T}: Add one mana of any color. Spend this mana only to cast a creature spell.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2440,
+      "price_usd": "0.42",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/144/ancient-ziggurat?utm_source=api",
+      "oracle_id": "0baabe39-72ae-47bd-a095-cbf7eb8a6361"
+    },
+    {
+      "name": "Abundant Growth",
+      "qty": 1,
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "type_line": "Enchantment — Aura",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [
+        "Enchant"
+      ],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Abundant Growth",
+          "mana_cost": "{G}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant land\nWhen this Aura enters, draw a card.\nEnchanted land has \"{T}: Add one mana of any color.\"",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "common",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2433,
+      "price_usd": "0.27",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/97/abundant-growth?utm_source=api",
+      "oracle_id": "947a2665-2f4d-4193-8768-118f85334549"
+    },
+    {
+      "name": "Chromatic Lantern",
+      "qty": 1,
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "type_line": "Artifact",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Chromatic Lantern",
+          "mana_cost": "{3}",
+          "type_line": "Artifact",
+          "oracle_text": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "rare",
+      "set": "mbc",
+      "set_name": "Mystery Booster Commander Edition",
+      "released_at": "2026-10-19",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 86,
+      "price_usd": "2.05",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/mbc/73/chromatic-lantern?utm_source=api",
+      "oracle_id": "539f5396-d99a-417d-a84c-dff7930b5900"
+    },
+    {
+      "name": "Crib Swap",
+      "qty": 1,
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "type_line": "Kindred Instant — Shapeshifter",
+      "layout": "normal",
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Changeling"
+      ],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Crib Swap",
+          "mana_cost": "{2}{W}",
+          "type_line": "Kindred Instant — Shapeshifter",
+          "oracle_text": "Changeling (This card is every creature type.)\nExile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "W"
+          ]
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecl",
+      "set_name": "Lorwyn Eclipsed",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2480,
+      "price_usd": "0.29",
+      "all_parts": [
+        {
+          "name": "Shapeshifter",
+          "component": "token",
+          "type_line": "Token Creature — Shapeshifter"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecl/11/crib-swap?utm_source=api",
+      "oracle_id": "2987c385-011a-4032-a516-a46d1e9dc9e8"
+    },
+    {
+      "name": "Cultivate",
+      "qty": 1,
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "type_line": "Sorcery",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Cultivate",
+          "mana_cost": "{2}{G}",
+          "type_line": "Sorcery",
+          "oracle_text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "common",
+      "set": "msc",
+      "set_name": "Marvel Super Heroes Commander",
+      "released_at": "2026-06-26",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 20,
+      "price_usd": "0.36",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/msc/172/cultivate?utm_source=api",
+      "oracle_id": "8b755881-a72d-4e21-a369-d2924eb4585a"
+    },
+    {
+      "name": "Fertile Ground",
+      "qty": 1,
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "type_line": "Enchantment — Aura",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [
+        "Enchant"
+      ],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Fertile Ground",
+          "mana_cost": "{1}{G}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "common",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 1104,
+      "price_usd": "0.34",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/106/fertile-ground?utm_source=api",
+      "oracle_id": "cf14d4e5-5965-45ad-97f7-26facf2884b5"
+    },
+    {
+      "name": "Frontier Bivouac",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "G",
+        "R",
+        "U"
+      ],
+      "produced_mana": [
+        "G",
+        "R",
+        "U"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Frontier Bivouac",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "This land enters tapped.\n{T}: Add {G}, {U}, or {R}.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 405,
+      "price_usd": "0.38",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/150/frontier-bivouac?utm_source=api",
+      "oracle_id": "e4cf6c2f-0f1e-4980-9ef9-e4eabcae42a9"
+    },
+    {
+      "name": "Ingot Chewer",
+      "qty": 1,
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "type_line": "Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Evoke"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Ingot Chewer",
+          "mana_cost": "{4}{R}",
+          "type_line": "Creature — Elemental",
+          "oracle_text": "When this creature enters, destroy target artifact.\nEvoke {R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",
+          "power": "3",
+          "toughness": "3",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "R"
+          ]
+        }
+      ],
+      "rarity": "common",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 5316,
+      "price_usd": "0.33",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/95/ingot-chewer?utm_source=api",
+      "oracle_id": "127795e6-3f0e-4318-95ad-ccb1912580ac"
+    },
+    {
+      "name": "Jungle Shrine",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "G",
+        "R",
+        "W"
+      ],
+      "produced_mana": [
+        "G",
+        "R",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Jungle Shrine",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "This land enters tapped.\n{T}: Add {R}, {G}, or {W}.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 327,
+      "price_usd": "0.38",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/154/jungle-shrine?utm_source=api",
+      "oracle_id": "2e69537c-c898-4e13-a72d-ce3957a90304"
+    },
+    {
+      "name": "Mulldrifter",
+      "qty": 1,
+      "mana_cost": "{4}{U}",
+      "cmc": 5.0,
+      "type_line": "Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Flying",
+        "Evoke"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Mulldrifter",
+          "mana_cost": "{4}{U}",
+          "type_line": "Creature — Elemental",
+          "oracle_text": "Flying\nWhen this creature enters, draw two cards.\nEvoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "U"
+          ]
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 606,
+      "price_usd": "0.36",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/67/mulldrifter?utm_source=api",
+      "oracle_id": "24d0f5e7-0d9e-4b76-900e-a7274e80312d"
+    },
+    {
+      "name": "Path to Exile",
+      "qty": 1,
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "type_line": "Instant",
+      "layout": "normal",
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Path to Exile",
+          "mana_cost": "{W}",
+          "type_line": "Instant",
+          "oracle_text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "W"
+          ]
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "trc",
+      "set_name": "Star Trek Commander",
+      "released_at": "2026-11-13",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 15,
+      "price_usd": null,
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/trc/425/path-to-exile?utm_source=api",
+      "oracle_id": "d683d985-9888-4d21-8b5f-69e69ce4a03b"
+    },
+    {
+      "name": "Sandsteppe Citadel",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "B",
+        "G",
+        "W"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Sandsteppe Citadel",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "This land enters tapped.\n{T}: Add {W}, {B}, or {G}.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 514,
+      "price_usd": "0.34",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/164/sandsteppe-citadel?utm_source=api",
+      "oracle_id": "544dbabd-cbfc-40da-a5ba-2fea9cddb453"
+    },
+    {
+      "name": "Selvala, Heart of the Wilds",
+      "qty": 1,
+      "mana_cost": "{1}{G}{G}",
+      "cmc": 3.0,
+      "type_line": "Legendary Creature — Elf Scout",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Selvala, Heart of the Wilds",
+          "mana_cost": "{1}{G}{G}",
+          "type_line": "Legendary Creature — Elf Scout",
+          "oracle_text": "Whenever another creature enters, its controller may draw a card if its power is greater than each other creature's power.\n{G}, {T}: Add X mana in any combination of colors, where X is the greatest power among creatures you control.",
+          "power": "2",
+          "toughness": "3",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 403,
+      "price_usd": "6.37",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/116/selvala-heart-of-the-wilds?utm_source=api",
+      "oracle_id": "1d725121-e50c-42f0-9128-56802f07c89e"
+    },
+    {
+      "name": "Shriekmaw",
+      "qty": 1,
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "type_line": "Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Evoke",
+        "Fear"
+      ],
+      "power": "3",
+      "toughness": "2",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Shriekmaw",
+          "mana_cost": "{4}{B}",
+          "type_line": "Creature — Elemental",
+          "oracle_text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhen this creature enters, destroy target nonartifact, nonblack creature.\nEvoke {1}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",
+          "power": "3",
+          "toughness": "2",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "B"
+          ]
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 1610,
+      "price_usd": "0.39",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/85/shriekmaw?utm_source=api",
+      "oracle_id": "717bbb9d-0a5b-4979-a24b-9d54aac7657a"
+    },
+    {
+      "name": "Sol Ring",
+      "qty": 1,
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "type_line": "Artifact",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "C"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Sol Ring",
+          "mana_cost": "{1}",
+          "type_line": "Artifact",
+          "oracle_text": "{T}: Add {C}{C}.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "trc",
+      "set_name": "Star Trek Commander",
+      "released_at": "2026-11-13",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 1,
+      "price_usd": null,
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/trc/499/sol-ring?utm_source=api",
+      "oracle_id": "6ad8011d-3471-4369-9d68-b264cc027487"
+    },
+    {
+      "name": "Unclaimed Territory",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "B",
+        "C",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Unclaimed Territory",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "msc",
+      "set_name": "Marvel Super Heroes Commander",
+      "released_at": "2026-06-26",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 248,
+      "price_usd": "0.34",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/msc/275/unclaimed-territory?utm_source=api",
+      "oracle_id": "584b15f2-6ae9-413a-8b8d-9244dbea4878"
+    },
+    {
+      "name": "Garruk's Uprising",
+      "qty": 1,
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "type_line": "Enchantment",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Garruk's Uprising",
+          "mana_cost": "{2}{G}",
+          "type_line": "Enchantment",
+          "oracle_text": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 92,
+      "price_usd": "0.58",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/109/garruks-uprising?utm_source=api",
+      "oracle_id": "3127ae9b-a7a7-43ec-89d7-688f8445b33d"
+    },
+    {
+      "name": "Distant Melody",
+      "qty": 1,
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "type_line": "Sorcery",
+      "layout": "normal",
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Distant Melody",
+          "mana_cost": "{3}{U}",
+          "type_line": "Sorcery",
+          "oracle_text": "Choose a creature type. Draw a card for each permanent you control of that type.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "U"
+          ]
+        }
+      ],
+      "rarity": "common",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 664,
+      "price_usd": "0.48",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/45/distant-melody?utm_source=api",
+      "oracle_id": "ac6c5852-71c7-4f19-8c87-ccb345052862"
+    },
+    {
+      "name": "Fellwar Stone",
+      "qty": 1,
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "type_line": "Artifact",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Fellwar Stone",
+          "mana_cost": "{2}",
+          "type_line": "Artifact",
+          "oracle_text": "{T}: Add one mana of any color that a land an opponent controls could produce.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "mbc",
+      "set_name": "Mystery Booster Commander Edition",
+      "released_at": "2026-10-19",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 17,
+      "price_usd": "2.52",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/mbc/74/fellwar-stone?utm_source=api",
+      "oracle_id": "95560508-7ac9-4be9-8a3f-3c7d5b52807b"
+    },
+    {
+      "name": "Cavalier of Thorns",
+      "qty": 1,
+      "mana_cost": "{2}{G}{G}{G}",
+      "cmc": 5.0,
+      "type_line": "Creature — Elemental Knight",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Reach"
+      ],
+      "power": "5",
+      "toughness": "6",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Cavalier of Thorns",
+          "mana_cost": "{2}{G}{G}{G}",
+          "type_line": "Creature — Elemental Knight",
+          "oracle_text": "Reach\nWhen this creature enters, reveal the top five cards of your library. Put a land card from among them onto the battlefield and the rest into your graveyard.\nWhen this creature dies, you may exile it. If you do, put another target card from your graveyard on top of your library.",
+          "power": "5",
+          "toughness": "6",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 5122,
+      "price_usd": "0.27",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/100/cavalier-of-thorns?utm_source=api",
+      "oracle_id": "96b909ab-55f1-4cde-a675-2504de3da772"
+    },
+    {
+      "name": "Omnath, Locus of the Roil",
+      "qty": 1,
+      "mana_cost": "{1}{G}{U}{R}",
+      "cmc": 4.0,
+      "type_line": "Legendary Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "G",
+        "R",
+        "U"
+      ],
+      "color_identity": [
+        "G",
+        "R",
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Landfall"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Omnath, Locus of the Roil",
+          "mana_cost": "{1}{G}{U}{R}",
+          "type_line": "Legendary Creature — Elemental",
+          "oracle_text": "When Omnath enters, it deals damage to any target equal to the number of Elementals you control.\nLandfall — Whenever a land you control enters, put a +1/+1 counter on target Elemental you control. If you control eight or more lands, draw a card.",
+          "power": "3",
+          "toughness": "3",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G",
+            "R",
+            "U"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 3539,
+      "price_usd": "0.42",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/130/omnath-locus-of-the-roil?utm_source=api",
+      "oracle_id": "ffd34151-457a-4a93-82db-24b18319a06b"
+    },
+    {
+      "name": "Risen Reef",
+      "qty": 1,
+      "mana_cost": "{1}{G}{U}",
+      "cmc": 3.0,
+      "type_line": "Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "G",
+        "U"
+      ],
+      "color_identity": [
+        "G",
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Risen Reef",
+          "mana_cost": "{1}{G}{U}",
+          "type_line": "Creature — Elemental",
+          "oracle_text": "Whenever this creature or another Elemental you control enters, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. If you don't put the card onto the battlefield, put it into your hand.",
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G",
+            "U"
+          ]
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2175,
+      "price_usd": "0.37",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/132/risen-reef?utm_source=api",
+      "oracle_id": "2ae71e86-4400-4a30-9077-4d57a43e7395"
+    },
+    {
+      "name": "Yarok, the Desecrated",
+      "qty": 1,
+      "mana_cost": "{2}{B}{G}{U}",
+      "cmc": 5.0,
+      "type_line": "Legendary Creature — Elemental Horror",
+      "layout": "normal",
+      "colors": [
+        "B",
+        "G",
+        "U"
+      ],
+      "color_identity": [
+        "B",
+        "G",
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Lifelink",
+        "Deathtouch"
+      ],
+      "power": "3",
+      "toughness": "5",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Yarok, the Desecrated",
+          "mana_cost": "{2}{B}{G}{U}",
+          "type_line": "Legendary Creature — Elemental Horror",
+          "oracle_text": "Deathtouch, lifelink\nIf a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+          "power": "3",
+          "toughness": "5",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "B",
+            "G",
+            "U"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2406,
+      "price_usd": "0.35",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/136/yarok-the-desecrated?utm_source=api",
+      "oracle_id": "95b53836-18aa-451a-992d-2a111deeeab2"
+    },
+    {
+      "name": "Blasphemous Act",
+      "qty": 1,
+      "mana_cost": "{8}{R}",
+      "cmc": 9.0,
+      "type_line": "Sorcery",
+      "layout": "normal",
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Blasphemous Act",
+          "mana_cost": "{8}{R}",
+          "type_line": "Sorcery",
+          "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "R"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "msc",
+      "set_name": "Marvel Super Heroes Commander",
+      "released_at": "2026-06-26",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 22,
+      "price_usd": "1.19",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/msc/163/blasphemous-act?utm_source=api",
+      "oracle_id": "7a2484a9-04fd-41a0-8224-610c1c07ed10"
+    },
+    {
+      "name": "Exotic Orchard",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Exotic Orchard",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "{T}: Add one mana of any color that a land an opponent controls could produce.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "rare",
+      "set": "mbc",
+      "set_name": "Mystery Booster Commander Edition",
+      "released_at": "2026-11-09",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 9,
+      "price_usd": null,
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/mbc/79/exotic-orchard?utm_source=api",
+      "oracle_id": "27b047e3-0d41-45e2-98e9-9391d7923a1e"
+    },
+    {
+      "name": "Flamekin Village",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "produced_mana": [
+        "R"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Flamekin Village",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "As this land enters, you may reveal an Elemental card from your hand. If you don't, this land enters tapped.\n{T}: Add {R}.\n{R}, {T}: Target creature gains haste until end of turn.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 3606,
+      "price_usd": "0.25",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/149/flamekin-village?utm_source=api",
+      "oracle_id": "34a1eb04-08f6-49d8-a1d1-b987a76bd8b1"
+    },
+    {
+      "name": "Opal Palace",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "B",
+        "C",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Opal Palace",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color in your commander's color identity. If you spend this mana to cast your commander, it enters with a number of additional +1/+1 counters on it equal to the number of times it's been cast from the command zone this game.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "common",
+      "set": "soc",
+      "set_name": "Secrets of Strixhaven Commander",
+      "released_at": "2026-04-24",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 698,
+      "price_usd": "0.33",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/soc/390/opal-palace?utm_source=api",
+      "oracle_id": "aa6723a2-75da-49f5-a1ba-cbfa82c55301"
+    },
+    {
+      "name": "Opulent Palace",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "B",
+        "G",
+        "U"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "U"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Opulent Palace",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "This land enters tapped.\n{T}: Add {B}, {G}, or {U}.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 383,
+      "price_usd": "0.40",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/157/opulent-palace?utm_source=api",
+      "oracle_id": "f9e7e855-1e3b-42d3-91b0-64ba8b5b8982"
+    },
+    {
+      "name": "Seaside Citadel",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "G",
+        "U",
+        "W"
+      ],
+      "produced_mana": [
+        "G",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Seaside Citadel",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "This land enters tapped.\n{T}: Add {G}, {W}, or {U}.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "trc",
+      "set_name": "Star Trek Commander",
+      "released_at": "2026-11-13",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 411,
+      "price_usd": "0.32",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/trc/556/seaside-citadel?utm_source=api",
+      "oracle_id": "2ae77795-6a80-498b-bf69-6fd612f601e4"
+    },
+    {
+      "name": "Kindred Summons",
+      "qty": 1,
+      "mana_cost": "{5}{G}{G}",
+      "cmc": 7.0,
+      "type_line": "Instant",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Kindred Summons",
+          "mana_cost": "{5}{G}{G}",
+          "type_line": "Instant",
+          "oracle_text": "Choose a creature type. Reveal cards from the top of your library until you reveal X creature cards of the chosen type, where X is the number of creatures you control of that type. Put those cards onto the battlefield, then shuffle the rest of the revealed cards into your library.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2315,
+      "price_usd": "0.93",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/112/kindred-summons?utm_source=api",
+      "oracle_id": "b488e75f-af9c-43e2-8aca-f269fa2c720e"
+    },
+    {
+      "name": "Path of Ancestry",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [
+        "Scry"
+      ],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Path of Ancestry",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "common",
+      "set": "mbc",
+      "set_name": "Mystery Booster Commander Edition",
+      "released_at": "2026-11-09",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 14,
+      "price_usd": null,
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/mbc/80/path-of-ancestry?utm_source=api",
+      "oracle_id": "b473e293-59e3-4e04-acf2-622604aeb25f"
+    },
+    {
+      "name": "Reality Shift",
+      "qty": 1,
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "type_line": "Instant",
+      "layout": "normal",
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Manifest"
+      ],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Reality Shift",
+          "mana_cost": "{1}{U}",
+          "type_line": "Instant",
+          "oracle_text": "Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "U"
+          ]
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "soc",
+      "set_name": "Secrets of Strixhaven Commander",
+      "released_at": "2026-04-24",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 282,
+      "price_usd": "0.30",
+      "all_parts": [
+        {
+          "name": "Manifest",
+          "component": "combo_piece",
+          "type_line": "Creature"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/soc/199/reality-shift?utm_source=api",
+      "oracle_id": "70dc830e-d05b-4fc7-88dd-879e140b3fbf"
+    },
+    {
+      "name": "Kodama's Reach",
+      "qty": 1,
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "type_line": "Sorcery — Arcane",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Kodama's Reach",
+          "mana_cost": "{2}{G}",
+          "type_line": "Sorcery — Arcane",
+          "oracle_text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "common",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 37,
+      "price_usd": "1.73",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/113/kodamas-reach?utm_source=api",
+      "oracle_id": "1593ea18-2f2f-4ab4-83fb-6ccc0bec8a90"
+    },
+    {
+      "name": "Avenger of Zendikar",
+      "qty": 1,
+      "mana_cost": "{5}{G}{G}",
+      "cmc": 7.0,
+      "type_line": "Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Landfall"
+      ],
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Avenger of Zendikar",
+          "mana_cost": "{5}{G}{G}",
+          "type_line": "Creature — Elemental",
+          "oracle_text": "When this creature enters, create a 0/1 green Plant creature token for each land you control.\nLandfall — Whenever a land you control enters, you may put a +1/+1 counter on each Plant creature you control.",
+          "power": "5",
+          "toughness": "5",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 289,
+      "price_usd": "0.43",
+      "all_parts": [
+        {
+          "name": "Plant",
+          "component": "token",
+          "type_line": "Token Creature — Plant"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/98/avenger-of-zendikar?utm_source=api",
+      "oracle_id": "4ba5b3f6-503b-43e6-b66e-4f8c55cffed7"
+    },
+    {
+      "name": "Bane of Progress",
+      "qty": 1,
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6.0,
+      "type_line": "Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Bane of Progress",
+          "mana_cost": "{4}{G}{G}",
+          "type_line": "Creature — Elemental",
+          "oracle_text": "When this creature enters, destroy all artifacts and enchantments. Put a +1/+1 counter on this creature for each permanent destroyed this way.",
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 1247,
+      "price_usd": "0.39",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/99/bane-of-progress?utm_source=api",
+      "oracle_id": "51f9a6cc-8eb2-44ed-a2d9-913ac514ad67"
+    },
+    {
+      "name": "Savage Lands",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "B",
+        "G",
+        "R"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Savage Lands",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "This land enters tapped.\n{T}: Add {B}, {R}, or {G}.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "msc",
+      "set_name": "Marvel Super Heroes Commander",
+      "released_at": "2026-06-26",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 661,
+      "price_usd": "0.38",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/msc/827/savage-lands?utm_source=api",
+      "oracle_id": "a3292406-3f49-42d6-a547-e43dd5797f84"
+    },
+    {
+      "name": "Greenwarden of Murasa",
+      "qty": 1,
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6.0,
+      "type_line": "Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": "5",
+      "toughness": "4",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Greenwarden of Murasa",
+          "mana_cost": "{4}{G}{G}",
+          "type_line": "Creature — Elemental",
+          "oracle_text": "When this creature enters, you may return target card from your graveyard to your hand.\nWhen this creature dies, you may exile it. If you do, return target card from your graveyard to your hand.",
+          "power": "5",
+          "toughness": "4",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 3697,
+      "price_usd": "0.34",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/110/greenwarden-of-murasa?utm_source=api",
+      "oracle_id": "2facb1b3-4522-4610-a0ab-29ac53ca7fcd"
+    },
+    {
+      "name": "Omnath, Locus of Rage",
+      "qty": 1,
+      "mana_cost": "{3}{R}{R}{G}{G}",
+      "cmc": 7.0,
+      "type_line": "Legendary Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "G",
+        "R"
+      ],
+      "color_identity": [
+        "G",
+        "R"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Landfall"
+      ],
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Omnath, Locus of Rage",
+          "mana_cost": "{3}{R}{R}{G}{G}",
+          "type_line": "Legendary Creature — Elemental",
+          "oracle_text": "Landfall — Whenever a land you control enters, create a 5/5 red and green Elemental creature token.\nWhenever Omnath or another Elemental you control dies, Omnath deals 3 damage to any target.",
+          "power": "5",
+          "toughness": "5",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G",
+            "R"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 940,
+      "price_usd": "0.39",
+      "all_parts": [
+        {
+          "name": "Elemental",
+          "component": "token",
+          "type_line": "Token Creature — Elemental"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/129/omnath-locus-of-rage?utm_source=api",
+      "oracle_id": "1816eede-c5bd-49df-958f-a3af64cb2932"
+    },
+    {
+      "name": "Maelstrom Wanderer",
+      "qty": 1,
+      "mana_cost": "{5}{G}{U}{R}",
+      "cmc": 8.0,
+      "type_line": "Legendary Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "G",
+        "R",
+        "U"
+      ],
+      "color_identity": [
+        "G",
+        "R",
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Cascade"
+      ],
+      "power": "7",
+      "toughness": "5",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Maelstrom Wanderer",
+          "mana_cost": "{5}{G}{U}{R}",
+          "type_line": "Legendary Creature — Elemental",
+          "oracle_text": "Creatures you control have haste.\nCascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it again.)",
+          "power": "7",
+          "toughness": "5",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G",
+            "R",
+            "U"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 1596,
+      "price_usd": "0.37",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/127/maelstrom-wanderer?utm_source=api",
+      "oracle_id": "ad9b7fbc-61c8-43ee-a65c-99206fd1e4df"
+    },
+    {
+      "name": "Raging Ravine",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "G",
+        "R"
+      ],
+      "produced_mana": [
+        "G",
+        "R"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Raging Ravine",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "This land enters tapped.\n{T}: Add {R} or {G}.\n{2}{R}{G}: Until end of turn, this land becomes a 3/3 red and green Elemental creature with \"Whenever this creature attacks, put a +1/+1 counter on it.\" It's still a land.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2835,
+      "price_usd": "0.23",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/160/raging-ravine?utm_source=api",
+      "oracle_id": "8d38194e-b607-4ff4-9c19-0e8636d463bf"
+    },
+    {
+      "name": "Overgrown Tomb",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land — Swamp Forest",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "B",
+        "G"
+      ],
+      "produced_mana": [
+        "B",
+        "G"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Overgrown Tomb",
+          "mana_cost": "",
+          "type_line": "Land — Swamp Forest",
+          "oracle_text": "({T}: Add {B} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "rare",
+      "set": "trk",
+      "set_name": "Star Trek",
+      "released_at": "2026-11-13",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 71,
+      "price_usd": "5.38",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/trk/289/overgrown-tomb?utm_source=api",
+      "oracle_id": "975ec9a3-6f20-4177-8211-82526e092538"
+    },
+    {
+      "name": "Hoofprints of the Stag",
+      "qty": 1,
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "type_line": "Kindred Enchantment — Elemental",
+      "layout": "normal",
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Hoofprints of the Stag",
+          "mana_cost": "{1}{W}",
+          "type_line": "Kindred Enchantment — Elemental",
+          "oracle_text": "Whenever you draw a card, you may put a hoofprint counter on this enchantment.\n{2}{W}, Remove four hoofprint counters from this enchantment: Create a 4/4 white Elemental creature token with flying. Activate only during your turn.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "W"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 9861,
+      "price_usd": "0.25",
+      "all_parts": [
+        {
+          "name": "Elemental",
+          "component": "token",
+          "type_line": "Token Creature — Elemental"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/64/hoofprints-of-the-stag?utm_source=api",
+      "oracle_id": "17739f55-486b-46ea-8785-70cc2bd2d872"
+    },
+    {
+      "name": "Incandescent Soulstoke",
+      "qty": 1,
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "type_line": "Creature — Elemental Shaman",
+      "layout": "normal",
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Incandescent Soulstoke",
+          "mana_cost": "{2}{R}",
+          "type_line": "Creature — Elemental Shaman",
+          "oracle_text": "Other Elemental creatures you control get +1/+1.\n{1}{R}, {T}: You may put an Elemental creature card from your hand onto the battlefield. That creature gains haste until end of turn. Sacrifice it at the beginning of the next end step.",
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "R"
+          ]
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 5953,
+      "price_usd": "0.25",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/94/incandescent-soulstoke?utm_source=api",
+      "oracle_id": "934bd9f9-937b-4c6b-a849-012ae6bd3321"
+    },
+    {
+      "name": "Horde of Notions",
+      "qty": 1,
+      "mana_cost": "{W}{U}{B}{R}{G}",
+      "cmc": 5.0,
+      "type_line": "Legendary Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "color_identity": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Vigilance",
+        "Haste",
+        "Trample"
+      ],
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Horde of Notions",
+          "mana_cost": "{W}{U}{B}{R}{G}",
+          "type_line": "Legendary Creature — Elemental",
+          "oracle_text": "Vigilance, trample, haste\n{W}{U}{B}{R}{G}: You may play target Elemental card from your graveyard without paying its mana cost.",
+          "power": "5",
+          "toughness": "5",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 6138,
+      "price_usd": "0.26",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/124/horde-of-notions?utm_source=api",
+      "oracle_id": "a7656948-4d7d-47f7-b8a1-fc9716155e37"
+    },
+    {
+      "name": "Smokebraider",
+      "qty": 1,
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "type_line": "Creature — Elemental Shaman",
+      "layout": "normal",
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Smokebraider",
+          "mana_cost": "{1}{R}",
+          "type_line": "Creature — Elemental Shaman",
+          "oracle_text": "{T}: Add two mana in any combination of colors. Spend this mana only to cast Elemental spells or activate abilities of Elementals.",
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "R"
+          ]
+        }
+      ],
+      "rarity": "common",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 4822,
+      "price_usd": "0.31",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/96/smokebraider?utm_source=api",
+      "oracle_id": "e970f2df-90cb-45b8-8ae5-71b762908925"
+    },
+    {
+      "name": "Jegantha, the Wellspring",
+      "qty": 1,
+      "mana_cost": "{4}{R/G}",
+      "cmc": 5.0,
+      "type_line": "Legendary Creature — Elemental Elk",
+      "layout": "normal",
+      "colors": [
+        "G",
+        "R"
+      ],
+      "color_identity": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [
+        "Companion"
+      ],
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Jegantha, the Wellspring",
+          "mana_cost": "{4}{R/G}",
+          "type_line": "Legendary Creature — Elemental Elk",
+          "oracle_text": "Companion — No card in your starting deck has more than one of the same mana symbol in its mana cost. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)\n{T}: Add {W}{U}{B}{R}{G}. This mana can't be spent to pay generic mana costs.",
+          "power": "5",
+          "toughness": "5",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G",
+            "R"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 3796,
+      "price_usd": "0.27",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/125/jegantha-the-wellspring?utm_source=api",
+      "oracle_id": "f0587c55-06c1-4930-a62e-668f37464ce9"
+    },
+    {
+      "name": "Cream of the Crop",
+      "qty": 1,
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "type_line": "Enchantment",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Cream of the Crop",
+          "mana_cost": "{1}{G}",
+          "type_line": "Enchantment",
+          "oracle_text": "Whenever a creature you control enters, you may look at the top X cards of your library, where X is that creature's power. If you do, put one of those cards on top of your library and the rest on the bottom of your library in any order.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 5152,
+      "price_usd": "0.60",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/102/cream-of-the-crop?utm_source=api",
+      "oracle_id": "b61a87e3-dc98-4db9-abed-b47b677d81ab"
+    },
+    {
+      "name": "Primal Beyond",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "B",
+        "C",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Primal Beyond",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "As this land enters, you may reveal an Elemental card from your hand. If you don't, this land enters tapped.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast an Elemental spell or activate an ability of an Elemental.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 5981,
+      "price_usd": "0.23",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/159/primal-beyond?utm_source=api",
+      "oracle_id": "541744d9-449d-420a-a5a1-2fffba18450f"
+    },
+    {
+      "name": "Slithermuse",
+      "qty": 1,
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4.0,
+      "type_line": "Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Evoke"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Slithermuse",
+          "mana_cost": "{2}{U}{U}",
+          "type_line": "Creature — Elemental",
+          "oracle_text": "When this creature leaves the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference.\nEvoke {3}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",
+          "power": "3",
+          "toughness": "3",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "U"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 9123,
+      "price_usd": "0.21",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/69/slithermuse?utm_source=api",
+      "oracle_id": "4b6512aa-535e-4edf-8797-43df2b8463de"
+    },
+    {
+      "name": "Muldrotha, the Gravetide",
+      "qty": 1,
+      "mana_cost": "{3}{B}{G}{U}",
+      "cmc": 6.0,
+      "type_line": "Legendary Creature — Elemental Avatar",
+      "layout": "normal",
+      "colors": [
+        "B",
+        "G",
+        "U"
+      ],
+      "color_identity": [
+        "B",
+        "G",
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Muldrotha, the Gravetide",
+          "mana_cost": "{3}{B}{G}{U}",
+          "type_line": "Legendary Creature — Elemental Avatar",
+          "oracle_text": "During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)",
+          "power": "6",
+          "toughness": "6",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "B",
+            "G",
+            "U"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 1098,
+      "price_usd": "0.87",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/128/muldrotha-the-gravetide?utm_source=api",
+      "oracle_id": "e4625704-1d52-44e4-804f-2f45644d76ac"
+    },
+    {
+      "name": "Realmwalker",
+      "qty": 1,
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "type_line": "Creature — Shapeshifter",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Changeling"
+      ],
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Realmwalker",
+          "mana_cost": "{2}{G}",
+          "type_line": "Creature — Shapeshifter",
+          "oracle_text": "Changeling (This card is every creature type.)\nAs this creature enters, choose a creature type.\nYou may look at the top card of your library any time.\nYou may cast creature spells of the chosen type from the top of your library.",
+          "power": "2",
+          "toughness": "3",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 614,
+      "price_usd": "2.52",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/114/realmwalker?utm_source=api",
+      "oracle_id": "b81eaa2f-0554-41c6-bdf6-d1cb73b8f56f"
+    },
+    {
+      "name": "Haunting Voyage",
+      "qty": 1,
+      "mana_cost": "{4}{B}{B}",
+      "cmc": 6.0,
+      "type_line": "Sorcery",
+      "layout": "normal",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Foretell"
+      ],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Haunting Voyage",
+          "mana_cost": "{4}{B}{B}",
+          "type_line": "Sorcery",
+          "oracle_text": "Choose a creature type. Return up to two creature cards of that type from your graveyard to the battlefield. If this spell was foretold, return all creature cards of that type from your graveyard to the battlefield instead.\nForetell {5}{B}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "B"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 3709,
+      "price_usd": "0.38",
+      "all_parts": [
+        {
+          "name": "Foretell",
+          "component": "combo_piece",
+          "type_line": "Card"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/75/haunting-voyage?utm_source=api",
+      "oracle_id": "334c284e-7bc3-4c18-9f8d-4d846f80008e"
+    },
+    {
+      "name": "Endurance",
+      "qty": 1,
+      "mana_cost": "{1}{G}{G}",
+      "cmc": 3.0,
+      "type_line": "Creature — Elemental Incarnation",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Reach",
+        "Evoke",
+        "Flash"
+      ],
+      "power": "3",
+      "toughness": "4",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Endurance",
+          "mana_cost": "{1}{G}{G}",
+          "type_line": "Creature — Elemental Incarnation",
+          "oracle_text": "Flash\nReach\nWhen this creature enters, up to one target player puts all the cards from their graveyard on the bottom of their library in a random order.\nEvoke—Exile a green card from your hand.",
+          "power": "3",
+          "toughness": "4",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 1343,
+      "price_usd": "3.26",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/51/endurance?utm_source=api",
+      "oracle_id": "c85d824b-c190-4d04-ab99-918ad0e6516c"
+    },
+    {
+      "name": "Foundation Breaker",
+      "qty": 1,
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "type_line": "Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Evoke"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Foundation Breaker",
+          "mana_cost": "{3}{G}",
+          "type_line": "Creature — Elemental",
+          "oracle_text": "When this creature enters, you may destroy target artifact or enchantment.\nEvoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2973,
+      "price_usd": "0.28",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/108/foundation-breaker?utm_source=api",
+      "oracle_id": "8b7a3613-f1bd-4262-9b11-b631167c2c2d"
+    },
+    {
+      "name": "Fury",
+      "qty": 1,
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5.0,
+      "type_line": "Creature — Elemental Incarnation",
+      "layout": "normal",
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Evoke",
+        "Double strike"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Fury",
+          "mana_cost": "{3}{R}{R}",
+          "type_line": "Creature — Elemental Incarnation",
+          "oracle_text": "Double strike\nWhen this creature enters, it deals 4 damage divided as you choose among any number of target creatures and/or planeswalkers.\nEvoke—Exile a red card from your hand.",
+          "power": "3",
+          "toughness": "3",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "R"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2386,
+      "price_usd": "0.53",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/50/fury?utm_source=api",
+      "oracle_id": "fbf9f8c5-849f-45d5-8129-5fc683c21a04"
+    },
+    {
+      "name": "Secluded Courtyard",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "B",
+        "C",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Secluded Courtyard",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "msc",
+      "set_name": "Marvel Super Heroes Commander",
+      "released_at": "2026-06-26",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 219,
+      "price_usd": "0.33",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/msc/265/secluded-courtyard?utm_source=api",
+      "oracle_id": "79ba18fd-f184-43c1-86df-56ee18ce806c"
+    },
+    {
+      "name": "Titan of Industry",
+      "qty": 1,
+      "mana_cost": "{4}{G}{G}{G}",
+      "cmc": 7.0,
+      "type_line": "Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Reach",
+        "Trample"
+      ],
+      "power": "7",
+      "toughness": "7",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Titan of Industry",
+          "mana_cost": "{4}{G}{G}{G}",
+          "type_line": "Creature — Elemental",
+          "oracle_text": "Reach, trample\nWhen this creature enters, choose two —\n• Destroy target artifact or enchantment.\n• Target player gains 5 life.\n• Create a 4/4 green Rhino Warrior creature token.\n• Put a shield counter on a creature you control.",
+          "power": "7",
+          "toughness": "7",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2507,
+      "price_usd": "0.46",
+      "all_parts": [
+        {
+          "name": "Rhino Warrior",
+          "component": "token",
+          "type_line": "Token Creature — Rhino Warrior"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/117/titan-of-industry?utm_source=api",
+      "oracle_id": "5d8acafe-c13e-43ca-a89e-0cfd12d95662"
+    },
+    {
+      "name": "Timeless Lotus",
+      "qty": 1,
+      "mana_cost": "{5}",
+      "cmc": 5.0,
+      "type_line": "Legendary Artifact",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Timeless Lotus",
+          "mana_cost": "{5}",
+          "type_line": "Legendary Artifact",
+          "oracle_text": "Timeless Lotus enters tapped.\n{T}: Add {W}{U}{B}{R}{G}.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2067,
+      "price_usd": "4.27",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/143/timeless-lotus?utm_source=api",
+      "oracle_id": "fec77e0a-433e-4d32-9260-e26a37f6ad23"
+    },
+    {
+      "name": "Descendants' Fury",
+      "qty": 1,
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "type_line": "Enchantment",
+      "layout": "normal",
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Descendants' Fury",
+          "mana_cost": "{3}{R}",
+          "type_line": "Enchantment",
+          "oracle_text": "Whenever one or more creatures you control deal combat damage to a player, you may sacrifice one of them. If you do, reveal cards from the top of your library until you reveal a creature card that shares a creature type with the sacrificed creature. Put that card onto the battlefield and the rest on the bottom of your library in a random order.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "R"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 4553,
+      "price_usd": "0.29",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecc/93/descendants-fury?utm_source=api",
+      "oracle_id": "97079964-7a2e-42c5-ad4a-9015c18a1e97"
+    },
+    {
+      "name": "Vernal Sovereign",
+      "qty": 1,
+      "mana_cost": "{4}{G}{W}",
+      "cmc": 6.0,
+      "type_line": "Creature — Elemental Elk",
+      "layout": "normal",
+      "colors": [
+        "G",
+        "W"
+      ],
+      "color_identity": [
+        "G",
+        "W"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Vernal Sovereign",
+          "mana_cost": "{4}{G}{W}",
+          "type_line": "Creature — Elemental Elk",
+          "oracle_text": "Whenever this creature enters or attacks, create a green and white Elemental creature token with \"This token's power and toughness are each equal to the number of creatures you control.\"",
+          "power": "4",
+          "toughness": "4",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G",
+            "W"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 8179,
+      "price_usd": "0.25",
+      "all_parts": [
+        {
+          "name": "Elemental",
+          "component": "token",
+          "type_line": "Token Creature — Elemental"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/135/vernal-sovereign?utm_source=api",
+      "oracle_id": "bf30b8ae-0125-4a00-bae8-ac1aa7703a08"
+    },
+    {
+      "name": "Boiling Rock Prison",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "B",
+        "R"
+      ],
+      "produced_mana": [
+        "B",
+        "R"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Boiling Rock Prison",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "common",
+      "set": "tla",
+      "set_name": "Avatar: The Last Airbender",
+      "released_at": "2025-11-21",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 7229,
+      "price_usd": "0.19",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/tla/267/boiling-rock-prison?utm_source=api",
+      "oracle_id": "6caabc45-4644-4941-a2f3-f04ee7b50a89"
+    },
+    {
+      "name": "Serpent's Pass",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "B",
+        "U"
+      ],
+      "produced_mana": [
+        "B",
+        "U"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Serpent's Pass",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "common",
+      "set": "tla",
+      "set_name": "Avatar: The Last Airbender",
+      "released_at": "2025-11-21",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 8381,
+      "price_usd": "0.21",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/tla/279/serpents-pass?utm_source=api",
+      "oracle_id": "f715f701-a735-42ab-b31a-8e1bd04ac5ff"
+    },
+    {
+      "name": "Ashling, the Limitless",
+      "qty": 1,
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "type_line": "Legendary Creature — Elemental Sorcerer",
+      "layout": "normal",
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Ashling, the Limitless",
+          "mana_cost": "{2}{R}",
+          "type_line": "Legendary Creature — Elemental Sorcerer",
+          "oracle_text": "Elemental permanent spells you cast from your hand gain evoke {4} as you cast them. (If you cast a spell for its evoke cost, it's sacrificed when it enters.)\nWhenever you sacrifice a nontoken Elemental, create a token that's a copy of it. The token gains haste until end of turn. At the beginning of your next end step, sacrifice it unless you pay {W}{U}{B}{R}{G}.",
+          "power": "2",
+          "toughness": "3",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "R"
+          ]
+        }
+      ],
+      "rarity": "mythic",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 5322,
+      "price_usd": "0.40",
+      "all_parts": [
+        {
+          "name": "Copy",
+          "component": "token",
+          "type_line": "Token"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/1/ashling-the-limitless?utm_source=api",
+      "oracle_id": "77a9e7cf-76e9-4323-8504-a5b831de00be"
+    },
+    {
+      "name": "Springleaf Parade",
+      "qty": 1,
+      "mana_cost": "{X}{G}{G}",
+      "cmc": 2.0,
+      "type_line": "Enchantment",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Springleaf Parade",
+          "mana_cost": "{X}{G}{G}",
+          "type_line": "Enchantment",
+          "oracle_text": "When this enchantment enters, create X 1/1 colorless Shapeshifter creature tokens with changeling. (They're every creature type.)\nCreature tokens you control have \"{T}: Add one mana of any color.\"",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 1673,
+      "price_usd": "8.34",
+      "all_parts": [
+        {
+          "name": "Shapeshifter",
+          "component": "token",
+          "type_line": "Token Creature — Shapeshifter"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/19/springleaf-parade?utm_source=api",
+      "oracle_id": "b1305916-53cc-4021-897e-bbefc65dce78"
+    },
+    {
+      "name": "Abundant Countryside",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [],
+      "produced_mana": [
+        "B",
+        "C",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Abundant Countryside",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell.\n{6}, {T}: Create a 1/1 colorless Shapeshifter creature token with changeling. (It's every creature type.)",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2538,
+      "price_usd": "4.21",
+      "all_parts": [
+        {
+          "name": "Shapeshifter",
+          "component": "token",
+          "type_line": "Token Creature — Shapeshifter"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/22/abundant-countryside?utm_source=api",
+      "oracle_id": "e3eb6f90-ccfc-41e7-bff6-0b378226bc7e"
+    },
+    {
+      "name": "Belonging",
+      "qty": 1,
+      "mana_cost": "{5}{W}",
+      "cmc": 6.0,
+      "type_line": "Creature — Elemental Incarnation",
+      "layout": "normal",
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Encore"
+      ],
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Belonging",
+          "mana_cost": "{5}{W}",
+          "type_line": "Creature — Elemental Incarnation",
+          "oracle_text": "When this creature enters, create three 1/1 colorless Shapeshifter creature tokens with changeling. (They're every creature type.)\nEncore {6}{W}{W} ({6}{W}{W}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)",
+          "power": "6",
+          "toughness": "6",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "W"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 7085,
+      "price_usd": "0.26",
+      "all_parts": [
+        {
+          "name": "Shapeshifter",
+          "component": "token",
+          "type_line": "Token Creature — Shapeshifter"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/5/belonging?utm_source=api",
+      "oracle_id": "0ec88e35-191b-411b-9eb0-2dfef7ae4174"
+    },
+    {
+      "name": "Elemental Spectacle",
+      "qty": 1,
+      "mana_cost": "{5}{G}",
+      "cmc": 6.0,
+      "type_line": "Sorcery",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Vivid"
+      ],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Elemental Spectacle",
+          "mana_cost": "{5}{G}",
+          "type_line": "Sorcery",
+          "oracle_text": "Vivid — Create a number of 5/5 red and green Elemental creature tokens equal to the number of colors among permanents you control. Then you gain life equal to the number of creatures you control.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 12088,
+      "price_usd": "0.18",
+      "all_parts": [
+        {
+          "name": "Elemental",
+          "component": "token",
+          "type_line": "Token Creature — Elemental"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/15/elemental-spectacle?utm_source=api",
+      "oracle_id": "dd963396-3f81-49ad-a68e-87b9764d7ac5"
+    },
+    {
+      "name": "Impulsivity",
+      "qty": 1,
+      "mana_cost": "{6}{R}",
+      "cmc": 7.0,
+      "type_line": "Creature — Elemental Incarnation",
+      "layout": "normal",
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Encore"
+      ],
+      "power": "7",
+      "toughness": "5",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Impulsivity",
+          "mana_cost": "{6}{R}",
+          "type_line": "Creature — Elemental Incarnation",
+          "oracle_text": "When this creature enters, you may cast target instant or sorcery card from a graveyard without paying its mana cost. If that spell would be put into a graveyard, exile it instead.\nEncore {7}{R}{R} ({7}{R}{R}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)",
+          "power": "7",
+          "toughness": "5",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "R"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 5651,
+      "price_usd": "0.27",
+      "all_parts": [
+        {
+          "name": "Copy",
+          "component": "token",
+          "type_line": "Token"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/13/impulsivity?utm_source=api",
+      "oracle_id": "02b6900b-219f-4832-8f93-6ef27ee76c0c"
+    },
+    {
+      "name": "Jubilation",
+      "qty": 1,
+      "mana_cost": "{5}{G}",
+      "cmc": 6.0,
+      "type_line": "Creature — Elemental Incarnation",
+      "layout": "normal",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Encore"
+      ],
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Jubilation",
+          "mana_cost": "{5}{G}",
+          "type_line": "Creature — Elemental Incarnation",
+          "oracle_text": "When this creature enters, creatures you control get +2/+2 and gain trample until end of turn.\nEncore {7}{G}{G} ({7}{G}{G}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)",
+          "power": "5",
+          "toughness": "5",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "G"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 5426,
+      "price_usd": "0.27",
+      "all_parts": [
+        {
+          "name": "Copy",
+          "component": "token",
+          "type_line": "Token"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/17/jubilation?utm_source=api",
+      "oracle_id": "2cf04076-adc4-4831-a3b8-9120d516f204"
+    },
+    {
+      "name": "Lamentation",
+      "qty": 1,
+      "mana_cost": "{5}{B}",
+      "cmc": 6.0,
+      "type_line": "Creature — Elemental Incarnation",
+      "layout": "normal",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Encore"
+      ],
+      "power": "5",
+      "toughness": "4",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Lamentation",
+          "mana_cost": "{5}{B}",
+          "type_line": "Creature — Elemental Incarnation",
+          "oracle_text": "When this creature enters, destroy target creature an opponent controls. You gain 3 life.\nEncore {6}{B}{B} ({6}{B}{B}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)",
+          "power": "5",
+          "toughness": "4",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "B"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 5681,
+      "price_usd": "0.23",
+      "all_parts": [
+        {
+          "name": "Copy",
+          "component": "token",
+          "type_line": "Token"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/10/lamentation?utm_source=api",
+      "oracle_id": "88e43e62-8bce-41b3-ac2d-47043fcc7077"
+    },
+    {
+      "name": "Subterfuge",
+      "qty": 1,
+      "mana_cost": "{4}{U}",
+      "cmc": 5.0,
+      "type_line": "Creature — Elemental Incarnation",
+      "layout": "normal",
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Encore"
+      ],
+      "power": "3",
+      "toughness": "5",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Subterfuge",
+          "mana_cost": "{4}{U}",
+          "type_line": "Creature — Elemental Incarnation",
+          "oracle_text": "When this creature enters, target creature gains flying and \"Whenever this creature deals combat damage to a player, draw that many cards\" until end of turn.\nEncore {7}{U}{U} ({7}{U}{U}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)",
+          "power": "3",
+          "toughness": "5",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "U"
+          ]
+        }
+      ],
+      "rarity": "rare",
+      "set": "ecc",
+      "set_name": "Lorwyn Eclipsed Commander",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 5856,
+      "price_usd": "0.29",
+      "all_parts": [
+        {
+          "name": "Copy",
+          "component": "token",
+          "type_line": "Token"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecc/6/subterfuge?utm_source=api",
+      "oracle_id": "687cfdf7-8f35-464a-8d6e-9f2d769ed6b4"
+    },
+    {
+      "name": "Sodden Verdure",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land — Forest Island",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "G",
+        "U"
+      ],
+      "produced_mana": [
+        "G",
+        "U"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Sodden Verdure",
+          "mana_cost": "",
+          "type_line": "Land — Forest Island",
+          "oracle_text": "({T}: Add {G} or {U}.)\nThis land enters tapped unless you control two or more basic lands.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "rare",
+      "set": "trc",
+      "set_name": "Star Trek Commander",
+      "released_at": "2026-11-13",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 1161,
+      "price_usd": "0.30",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/trc/561/sodden-verdure?utm_source=api",
+      "oracle_id": "0070db93-142b-4d04-afd3-836792dc134b"
+    },
+    {
+      "name": "Rain-Slicked Copse",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land — Forest Island",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "G",
+        "U"
+      ],
+      "produced_mana": [
+        "G",
+        "U"
+      ],
+      "keywords": [
+        "Cycling"
+      ],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Rain-Slicked Copse",
+          "mana_cost": "",
+          "type_line": "Land — Forest Island",
+          "oracle_text": "({T}: Add {G} or {U}.)\nThis land enters tapped.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "rare",
+      "set": "trc",
+      "set_name": "Star Trek Commander",
+      "released_at": "2026-11-13",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 2913,
+      "price_usd": "0.29",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/trc/550/rain-slicked-copse?utm_source=api",
+      "oracle_id": "633a41f0-3889-49a0-b2fc-9baf59f4ddc2"
+    },
+    {
+      "name": "Flamebraider",
+      "qty": 1,
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "type_line": "Creature — Elemental Bard",
+      "layout": "normal",
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "keywords": [],
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Flamebraider",
+          "mana_cost": "{1}{R}",
+          "type_line": "Creature — Elemental Bard",
+          "oracle_text": "{T}: Add two mana in any combination of colors. Spend this mana only to cast Elemental spells or activate abilities of Elemental sources.",
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "R"
+          ]
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecl",
+      "set_name": "Lorwyn Eclipsed",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 5220,
+      "price_usd": "0.22",
+      "all_parts": [
+        {
+          "name": "Tend to the Kiln",
+          "component": "combo_piece",
+          "type_line": "Enchantment"
+        }
+      ],
+      "scryfall_uri": "https://scryfall.com/card/ecl/139/flamebraider?utm_source=api",
+      "oracle_id": "c552bd73-ce75-40fd-9d80-9e90b6f45274"
+    },
+    {
+      "name": "Shimmercreep",
+      "qty": 1,
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "type_line": "Creature — Elemental",
+      "layout": "normal",
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "produced_mana": [],
+      "keywords": [
+        "Menace",
+        "Vivid"
+      ],
+      "power": "3",
+      "toughness": "5",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Shimmercreep",
+          "mana_cost": "{4}{B}",
+          "type_line": "Creature — Elemental",
+          "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nVivid — When this creature enters, each opponent loses X life and you gain X life, where X is the number of colors among permanents you control.",
+          "power": "3",
+          "toughness": "5",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "B"
+          ]
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecl",
+      "set_name": "Lorwyn Eclipsed",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 9592,
+      "price_usd": "0.13",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecl/120/shimmercreep?utm_source=api",
+      "oracle_id": "52244c23-7680-4bed-8ef8-8d10e289d3f7"
+    },
+    {
+      "name": "Eclipsed Flamekin",
+      "qty": 1,
+      "mana_cost": "{1}{U/R}{U/R}",
+      "cmc": 3.0,
+      "type_line": "Creature — Elemental Scout",
+      "layout": "normal",
+      "colors": [
+        "R",
+        "U"
+      ],
+      "color_identity": [
+        "R",
+        "U"
+      ],
+      "produced_mana": [],
+      "keywords": [],
+      "power": "1",
+      "toughness": "4",
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Eclipsed Flamekin",
+          "mana_cost": "{1}{U/R}{U/R}",
+          "type_line": "Creature — Elemental Scout",
+          "oracle_text": "When this creature enters, look at the top four cards of your library. You may reveal an Elemental, Island, or Mountain card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+          "power": "1",
+          "toughness": "4",
+          "loyalty": null,
+          "defense": null,
+          "colors": [
+            "R",
+            "U"
+          ]
+        }
+      ],
+      "rarity": "uncommon",
+      "set": "ecl",
+      "set_name": "Lorwyn Eclipsed",
+      "released_at": "2026-01-23",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 8566,
+      "price_usd": "0.17",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/ecl/219/eclipsed-flamekin?utm_source=api",
+      "oracle_id": "48c641df-d511-4e35-b623-9d1fdb5240da"
+    },
+    {
+      "name": "Razorverge Thicket",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "G",
+        "W"
+      ],
+      "produced_mana": [
+        "G",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Razorverge Thicket",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {G} or {W}.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "rare",
+      "set": "msc",
+      "set_name": "Marvel Super Heroes Commander",
+      "released_at": "2026-06-26",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 1370,
+      "price_usd": "0.37",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/msc/259/razorverge-thicket?utm_source=api",
+      "oracle_id": "94f6c407-e665-4032-be13-a01e40c1f306"
+    },
+    {
+      "name": "Misty Palms Oasis",
+      "qty": 1,
+      "mana_cost": "",
+      "cmc": 0.0,
+      "type_line": "Land",
+      "layout": "normal",
+      "colors": [],
+      "color_identity": [
+        "B",
+        "W"
+      ],
+      "produced_mana": [
+        "B",
+        "W"
+      ],
+      "keywords": [],
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "faces": [
+        {
+          "name": "Misty Palms Oasis",
+          "mana_cost": "",
+          "type_line": "Land",
+          "oracle_text": "This land enters tapped.\n{T}: Add {W} or {B}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defense": null,
+          "colors": []
+        }
+      ],
+      "rarity": "common",
+      "set": "tla",
+      "set_name": "Avatar: The Last Airbender",
+      "released_at": "2025-11-21",
+      "reserved": false,
+      "game_changer": false,
+      "commander_legal": "legal",
+      "edhrec_rank": 9693,
+      "price_usd": "0.19",
+      "all_parts": [],
+      "scryfall_uri": "https://scryfall.com/card/tla/273/misty-palms-oasis?utm_source=api",
+      "oracle_id": "dfd2c57a-4557-4df1-8f6f-da2cbd317f12"
+    }
+  ]
+}

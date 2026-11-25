@@ -5,6 +5,7 @@
   "multiverse_ids": [
     627832
   ],
+  "resource_id": "9AFD06E17383F779A1F0BDF5227F218463440BB1DA78AA920E98C45594D4BD0D",
   "mtgo_id": 114965,
   "tcgplayer_id": 504612,
   "cardmarket_id": 722420,
@@ -28,7 +29,8 @@
     "grid": "https://cards.scryfall.io/grid/front/3/c/3c0f7157-a375-499c-92c7-d47d2e95dbad.webp?1783915605",
     "display": "https://cards.scryfall.io/display/front/3/c/3c0f7157-a375-499c-92c7-d47d2e95dbad.webp?1783915605",
     "art": "https://cards.scryfall.io/art/front/3/c/3c0f7157-a375-499c-92c7-d47d2e95dbad.webp?1783915605",
-    "crop": "https://cards.scryfall.io/crop/front/3/c/3c0f7157-a375-499c-92c7-d47d2e95dbad.webp?1783915605"
+    "crop": "https://cards.scryfall.io/crop/front/3/c/3c0f7157-a375-499c-92c7-d47d2e95dbad.webp?1783915605",
+    "jpeg": "https://cards.scryfall.io/normal/front/3/c/3c0f7157-a375-499c-92c7-d47d2e95dbad.jpg?1783915605"
   },
   "mana_cost": "{3}",
   "cmc": 3.0,
@@ -106,19 +108,19 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 134,
+  "edhrec_rank": 136,
   "preview": {
     "source": "le Pincecrâne",
     "source_uri": "https://twitter.com/pincecrane/status/1679570764993789953",
     "previewed_at": "2023-07-14"
   },
   "prices": {
-    "usd": "16.28",
-    "usd_foil": "18.21",
+    "usd": "15.55",
+    "usd_foil": "19.33",
     "usd_etched": null,
-    "eur": "13.86",
-    "eur_foil": "18.73",
-    "tix": "11.49"
+    "eur": "13.57",
+    "eur_foil": "19.30",
+    "tix": "12.61"
   },
   "related_uris": {
     "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=627832&printed=false",
