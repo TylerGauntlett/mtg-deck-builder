@@ -1,4 +1,4 @@
-# Hexhaven Invigorator: NO
+# Hexhaven Invigorator: ADD IF (revised from NO)
 
 - Deck: lander_commander (Aesi, Tyrant of Gyre Strait), bracket 3
 - Moxfield list last updated 2026-11-12T14:12:30.447Z (synced 2026-11-26, exit 0)
@@ -49,3 +49,19 @@ If you add it anyway: **Zendikar's Roil** (5-mana token engine, smallest bodies,
 
 - Three or more fight or self-damage effects in the list (see above).
 - Evidence that the pod regularly blocks big creatures or plays damage sweepers like Blasphemous Act, which would trigger it on the way out.
+
+---
+
+## Revision (same session): the deterrent argument
+
+The user suggested a second way to judge the card: as a **deterrent body**, meaning it's worth the slot even if the trigger never fires. That holds up, and my first pass missed it. Point 2 above treated "nobody damages it" as the card failing. For a deterrent, nobody damaging it means it's working.
+
+On this axis:
+- **Rate.** A 6/6 with vigilance for MV 4 attacks every turn and still blocks. The deck has three MV-4 spells (Arixmethes, Oracle of Mul Daya, Nissa), and the audit wanted more MV-4 plays. Script check: the only other anti-attack card is Propaganda, and the list has no vigilance creatures.
+- **The trigger punishes every way of getting rid of it in combat or with damage.** Trading with it, double-blocking it or casting a damage sweeper all hand you lands equal to the damage dealt. That count can be more than 6. The trigger resolves even when the damage kills it.
+
+There are two limits:
+1. **"The worst case is losing it for 6 lands" isn't right.** The worst case is destroy, exile, bounce or sacrifice removal, which gives you nothing. The pod uses destroy-based removal (Kalonian Hydra review). Combat is actually its best case.
+2. **One blocker doesn't stop a wide attack.** The audit lists go-wide combat as a pod threat. Against a wide board it stops one attacker, and Propaganda (already in) does more. It only really deters a few large attackers, such as Voltron or big stompy decks.
+
+**Verdict: ADD IF most of the attacks you take come from a few big creatures, not wide boards.** In that case, cut **Zendikar's Roil**. Against a go-wide opponent, Roil's stream of 2/2 blockers does that job better, and the answer stays NO. The fight-package path above still applies on top of this.
