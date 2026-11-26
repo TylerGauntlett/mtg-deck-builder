@@ -1583,8 +1583,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 167,
-      "price_usd": "7.59",
+      "edhrec_rank": 166,
+      "price_usd": "7.50",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/frc/25/flawless-maneuver?utm_source=api",
       "oracle_id": "4e183439-17d2-47ff-9d99-5e22821d91e3"
@@ -1679,8 +1679,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 2568,
-      "price_usd": null,
+      "edhrec_rank": 2525,
+      "price_usd": "0.30",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/trc/431/valorous-stance?utm_source=api",
       "oracle_id": "1f938353-9081-4dc1-b8e7-d18ece038bd4"
@@ -2406,7 +2406,7 @@
       "game_changer": false,
       "commander_legal": "legal",
       "edhrec_rank": 185,
-      "price_usd": "18.68",
+      "price_usd": "17.89",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/lcc/125/akromas-will?utm_source=api",
       "oracle_id": "fd949f82-fc10-4e37-8aa9-6c7569fe3c55"
@@ -3010,8 +3010,8 @@
       "reserved": false,
       "game_changer": false,
       "commander_legal": "legal",
-      "edhrec_rank": 546,
-      "price_usd": "4.85",
+      "edhrec_rank": 529,
+      "price_usd": "4.02",
       "all_parts": [],
       "scryfall_uri": "https://scryfall.com/card/msc/125/clever-concealment?utm_source=api",
       "oracle_id": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865"
